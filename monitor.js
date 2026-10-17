@@ -7,7 +7,7 @@ const parser = new Parser();
 // CONFIG
 // ---------------------------
 const SOURCES = [
-  { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml', weight: 1.4 },
+  
   { name: 'Ars Technica', url: 'https://feeds.arstechnica.com/arstechnica/index', weight: 1.3 },
   { name: 'TechCrunch', url: 'https://techcrunch.com/feed/', weight: 1.3 },
   { name: 'Wired', url: 'https://www.wired.com/feed/rss', weight: 1.2 },
