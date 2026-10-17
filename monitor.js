@@ -13,7 +13,7 @@ const SOURCES = [
   { name: 'Wired', url: 'https://www.wired.com/feed/rss', weight: 1.2 },
   { name: 'Engadget', url: 'https://www.engadget.com/rss.xml', weight: 1.2 },
   { name: 'CNET News', url: 'https://www.cnet.com/rss/news/', weight: 1.1 },
-  { name: 'The Register', url: 'https://www.theregister.com/?lab_viewport=rss', weight: 1.1 },
+  { name: 'The Register', url: 'https://www.theregister.com/headlines.atom', weight: 1.1 },
   { name: 'ZDNet News', url: 'https://www.zdnet.com/news/rss.xml', weight: 1.1 },
   { name: 'The Next Web', url: 'https://thenextweb.com/feed/', weight: 1.0 },
 ];
