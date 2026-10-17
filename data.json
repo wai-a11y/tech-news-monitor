@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-10-16T23:46:02.198Z",
+  "lastUpdated": "2026-10-17T00:16:30.748Z",
   "summary": {
     "topBrands": [
       [
         "EA",
-        99
+        100
       ],
       [
         "X",
-        70
+        68
       ],
       [
         "Apple",
@@ -31,8 +31,8 @@
         6
       ],
       [
-        "ARM",
-        4
+        "OpenAI",
+        5
       ]
     ],
     "topHardware": [
@@ -95,7 +95,7 @@
       },
       "brandMatches": 14,
       "hardwareMatches": 15,
-      "score": 126.38734495370372
+      "score": 126.3802903587963
     },
     {
       "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
@@ -128,7 +128,7 @@
       },
       "brandMatches": 15,
       "hardwareMatches": 13,
-      "score": 125.2782322955247
+      "score": 125.27117769675927
     },
     {
       "title": "The new Apple TV 4K just got its first (very small) discount",
@@ -153,7 +153,7 @@
       },
       "brandMatches": 14,
       "hardwareMatches": 14,
-      "score": 123.29266902777778
+      "score": 123.28561442901236
     },
     {
       "title": "Why Apple is finally making its own smart home devices",
@@ -179,7 +179,7 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 18,
-      "score": 95.3269475771605
+      "score": 95.31989297839507
     },
     {
       "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
@@ -203,7 +203,7 @@
       },
       "brandMatches": 11,
       "hardwareMatches": 7,
-      "score": 87.27878399305555
+      "score": 87.27172939814815
     }
   ],
   "articles": [
@@ -232,7 +232,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 13,
-      "score": 75.39777705632717
+      "score": 75.39072245756174
     },
     {
       "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
@@ -254,7 +254,7 @@
       },
       "brandMatches": 14,
       "hardwareMatches": 15,
-      "score": 126.38734495370372
+      "score": 126.3802903587963
     },
     {
       "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
@@ -274,7 +274,7 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 2,
-      "score": 47.3593549845679
+      "score": 47.35230038966049
     },
     {
       "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
@@ -297,7 +297,7 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 5,
-      "score": 56.35903476851852
+      "score": 56.351980169753084
     },
     {
       "title": "Why Apple is finally making its own smart home devices",
@@ -323,7 +323,7 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 18,
-      "score": 95.3269475771605
+      "score": 95.31989297839507
     },
     {
       "title": "The new Apple TV 4K just got its first (very small) discount",
@@ -348,7 +348,7 @@
       },
       "brandMatches": 14,
       "hardwareMatches": 14,
-      "score": 123.29266902777778
+      "score": 123.28561442901236
     },
     {
       "title": "Apple&#8217;s HomeView has an app problem",
@@ -368,7 +368,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 15,
-      "score": 76.28709417824075
+      "score": 76.28003958333333
     },
     {
       "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
@@ -388,7 +388,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 6,
-      "score": 49.280230752314814
+      "score": 49.273176157407406
     },
     {
       "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
@@ -412,7 +412,7 @@
       },
       "brandMatches": 11,
       "hardwareMatches": 7,
-      "score": 87.27878399305555
+      "score": 87.27172939814815
     },
     {
       "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
@@ -445,7 +445,26 @@
       },
       "brandMatches": 15,
       "hardwareMatches": 13,
-      "score": 125.2782322955247
+      "score": 125.27117769675927
+    },
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "date": "Fri, 16 Oct 2026 20:59:01 +0000",
+      "description": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1,
+        "OpenAI": 1
+      },
+      "hardwareCounts": {
+        "AI": 1,
+        "AI model": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 2,
+      "score": 27.254283406635803
     },
     {
       "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
@@ -463,7 +482,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 3,
-      "score": 25.252333375771606
+      "score": 25.245278777006174
     },
     {
       "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
@@ -480,7 +499,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 19.243348036265434
+      "score": 19.2362934375
     },
     {
       "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
@@ -499,7 +518,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 34.23652704861111
+      "score": 34.22947244984567
     },
     {
       "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
@@ -515,7 +534,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 17.207395104166665
+      "score": 17.200340505401233
     },
     {
       "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
@@ -535,7 +554,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 4,
-      "score": 43.187723032407405
+      "score": 43.180668437499996
     },
     {
       "title": "Polymarket saw $600 million in election trades after the elections were over",
@@ -548,7 +567,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 11.168826427469135
+      "score": 11.16177183256173
     },
     {
       "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
@@ -566,7 +585,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 27.165134297839508
+      "score": 27.1580797029321
     },
     {
       "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
@@ -581,7 +600,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 16.16457102623457
+      "score": 16.15751643132716
     },
     {
       "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
@@ -602,7 +621,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 8,
-      "score": 45.13658491512345
+      "score": 45.12953032021605
     },
     {
       "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
@@ -615,7 +634,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 11.122881211419754
+      "score": 11.11582661265432
     },
     {
       "title": "Blue Origin is going all in on the New Glenn rocket",
@@ -628,7 +647,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 11.108996180555557
+      "score": 11.101941581790124
     },
     {
       "title": "Googlebook review: Android on a laptop is still Android",
@@ -648,7 +667,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 6,
-      "score": 44.108911304012345
+      "score": 44.10185670524691
     },
     {
       "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
@@ -664,7 +683,7 @@
       "hardwareCounts": {},
       "brandMatches": 4,
       "hardwareMatches": 0,
-      "score": 30.947005439814813
+      "score": 30.939950841049384
     },
     {
       "title": "Plex now helps sell movie theater tickets",
@@ -683,26 +702,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 2,
-      "score": 31.933382750771607
-    },
-    {
-      "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-      "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-      "date": "Thu, 15 Oct 2026 21:09:57 +0000",
-      "description": "Medical experts explicitly recommend against blanket screenings.",
-      "source": "Ars Technica",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "ARM": 1,
-        "X": 2
-      },
-      "hardwareCounts": {
-        "screen": 2,
-        "AI": 1
-      },
-      "brandMatches": 3,
-      "hardwareMatches": 3,
-      "score": 34.930535528549385
+      "score": 31.926328155864198
     },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -723,7 +723,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 4,
-      "score": 43.26676623842592
+      "score": 43.259711643518514
     },
     {
       "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
@@ -743,7 +743,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 5,
-      "score": 31.243047102623457
+      "score": 31.235992507716052
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
@@ -763,7 +763,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 5,
-      "score": 31.21813969521605
+      "score": 31.21108510030864
     },
     {
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -785,7 +785,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 9,
-      "score": 58.19906562114197
+      "score": 58.19201102623457
     },
     {
       "title": "Waymo’s robotaxis are headed to Canada",
@@ -804,7 +804,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 1,
-      "score": 29.193656670524692
+      "score": 29.186602075617284
     },
     {
       "title": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -823,7 +823,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 4,
-      "score": 38.192495405092586
+      "score": 38.185440810185185
     },
     {
       "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
@@ -840,7 +840,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 8,
-      "score": 40.19212117283951
+      "score": 40.1850665779321
     },
     {
       "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
@@ -858,7 +858,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 22.192121172839506
+      "score": 22.1850665779321
     },
     {
       "title": "Jev is Vercel’s fastest-adopted AI model ever",
@@ -877,7 +877,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 7,
-      "score": 32.186060216049384
+      "score": 32.179005621141975
     },
     {
       "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
@@ -892,7 +892,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 20.17055867283951
+      "score": 20.1635040779321
     },
     {
       "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
@@ -909,7 +909,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 22.16434339506173
+      "score": 22.157288800154323
     },
     {
       "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
@@ -926,7 +926,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 4,
-      "score": 23.149331820987655
+      "score": 23.142277226080246
     },
     {
       "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
@@ -943,7 +943,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 6,
-      "score": 29.043224567901234
+      "score": 29.03616997299383
     },
     {
       "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
@@ -963,7 +963,7 @@
       },
       "brandMatches": 7,
       "hardwareMatches": 1,
-      "score": 48.98788891975308
+      "score": 48.980834324845674
     },
     {
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -983,7 +983,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 4,
-      "score": 32.96641129629629
+      "score": 32.959356701388884
     },
     {
       "title": "The Leap Second Is No More",
@@ -999,7 +999,7 @@
       "hardwareCounts": {},
       "brandMatches": 6,
       "hardwareMatches": 0,
-      "score": 41.16887657021605
+      "score": 41.161821979166675
     },
     {
       "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
@@ -1017,7 +1017,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 5,
-      "score": 31.148864996141977
+      "score": 31.141810405092592
     },
     {
       "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
@@ -1033,7 +1033,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 21.124968391203705
+      "score": 21.11791380015432
     },
     {
       "title": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
@@ -1049,7 +1049,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 21.09911190972222
+      "score": 21.09205731867284
     },
     {
       "title": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
@@ -1067,7 +1067,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 34.09906561342593
+      "score": 34.092011022376546
     },
     {
       "title": "Thank Gen Z for the ‘Girls’ Revival",
@@ -1082,7 +1082,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 17.097128885030866
+      "score": 17.090074290123457
     },
     {
       "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
@@ -1100,7 +1100,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 22.084088761574076
+      "score": 22.077034166666667
     },
     {
       "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
@@ -1115,7 +1115,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 17.078232280092593
+      "score": 17.071177685185184
     },
     {
       "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
@@ -1142,7 +1142,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 13,
-      "score": 70.05045450231482
+      "score": 70.0433999074074
     },
     {
       "title": "AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy",
@@ -1160,7 +1160,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 1,
-      "score": 29.02267672453704
+      "score": 29.01562212962963
     },
     {
       "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
@@ -1176,7 +1176,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 20.02267672453704
+      "score": 20.01562212962963
     },
     {
       "title": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight",
@@ -1191,7 +1191,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 14.016195243055554
+      "score": 14.009140648148147
     },
     {
       "title": "Jabra Enhance Select M3 Review (2026): A Big Price for Small Wins",
@@ -1206,7 +1206,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 20.008787835648146
+      "score": 20.00173324074074
     },
     {
       "title": "The New Fan’s Guide to the Unreal World of Nathan Fielder",
@@ -1225,7 +1225,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 27.008787835648146
+      "score": 27.00173324074074
     },
     {
       "title": "Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat",
@@ -1240,7 +1240,7 @@
       "hardwareCounts": {},
       "brandMatches": 3,
       "hardwareMatches": 0,
-      "score": 25.994898942901234
+      "score": 25.98784435185185
     },
     {
       "title": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
@@ -1257,7 +1257,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 19.159358819444442
+      "score": 19.152304228395064
     },
     {
       "title": "Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+",
@@ -1272,7 +1272,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 16.10681638117284
+      "score": 16.099761790123456
     },
     {
       "title": "If memory shortages last, tech companies should offer cheap battery replacements",
@@ -1293,7 +1293,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 4,
-      "score": 33.099528572530865
+      "score": 33.09247398148148
     },
     {
       "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
@@ -1309,7 +1309,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 20.067233047839505
+      "score": 20.060178456790123
     },
     {
       "title": "Technics EAH-A1000 review: Superior sound and excellent ANC in a premium package",
@@ -1328,7 +1328,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 2,
-      "score": 37.050454498456794
+      "score": 37.04339990740741
     },
     {
       "title": "An OpenAI research agent 'stole' test Ethereum to finish a coding task",
@@ -1346,7 +1346,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 2,
-      "score": 37.04823227623457
+      "score": 37.04117768518519
     },
     {
       "title": "Steam Achievement Sets will stop DLCs from ruining your 100 percent record",
@@ -1365,7 +1365,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 3,
-      "score": 40.03538505401235
+      "score": 40.02833046296297
     },
     {
       "title": "ChatGPT can now look at your Chrome tabs to do tasks for you",
@@ -1383,7 +1383,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 22.010234591049382
+      "score": 22.00318
     },
     {
       "title": "Apple's $2,000 iPhone Duo goes on pre-order today at 8AM ET",
@@ -1401,7 +1401,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 2,
-      "score": 32.003251566358024
+      "score": 31.996196971450615
     },
     {
       "title": "Gmail's Live AI search feature arrives for Google AI subscribers",
@@ -1420,7 +1420,7 @@
       },
       "brandMatches": 7,
       "hardwareMatches": 5,
-      "score": 60.98837116512346
+      "score": 60.98131657021605
     },
     {
       "title": "Relive Tesla's ridiculous(ly fun) Roadster stunt show",
@@ -1439,7 +1439,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 33.90343289351852
+      "score": 33.89637829861111
     },
     {
       "title": "Tesla's redesigned Roadster has a cold-gas thruster option, but you'll need $250,000 just to reserve it",
@@ -1455,7 +1455,7 @@
       "hardwareCounts": {},
       "brandMatches": 3,
       "hardwareMatches": 0,
-      "score": 25.894918233024693
+      "score": 25.887863638117285
     },
     {
       "title": "Withings wants new users to pay $100 a year to sync with Apple Health",
@@ -1473,7 +1473,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 2,
-      "score": 36.85648844907408
+      "score": 36.84943385416667
     },
     {
       "title": "The UK may expand the BBC license fee, charging residents to watch streaming services",
@@ -1492,7 +1492,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 2,
-      "score": 36.836364992283954
+      "score": 36.829310397376545
     },
     {
       "title": "NY congressman to introduce bill protecting video game ownership",
@@ -1505,7 +1505,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.817834899691357
+      "score": 10.81078030478395
     },
     {
       "title": "An Entire Swedish TV Show Got Deleted, and AI Got Blamed",
@@ -1520,7 +1520,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.769979961419754
+      "score": 13.762925366512345
     },
     {
       "title": "MapQuest App Shows You Where License Plate Readers Are in Your Area",
@@ -1537,7 +1537,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 24.061708356481482
+      "score": 24.054653761574073
     },
     {
       "title": "I Let Meta Muse Talk to Customer Service Bots. It Didn’t Go Well",
@@ -1552,7 +1552,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 13.612723016975309
+      "score": 13.605668422067902
     },
     {
       "title": "Waymo Puts Toronto on the Map for Its Robotaxis",
@@ -1568,7 +1568,7 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 21.034520856481482
+      "score": 21.027466261574077
     },
     {
       "title": "You Can Play Battlefield 6 and More on Xbox Game Pass Now",
@@ -1586,7 +1586,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 1,
-      "score": 26.062541689814815
+      "score": 26.055487094907406
     },
     {
       "title": "Tesla Roadster Fires Up SpaceX Tech for ‘Flying Car’ Demo",
@@ -1603,7 +1603,7 @@
       "hardwareCounts": {},
       "brandMatches": 3,
       "hardwareMatches": 0,
-      "score": 25.99150002314815
+      "score": 25.984445428240743
     },
     {
       "title": "Surprise! Meta and Apple Worked Together on a New Open-Source AI Model",
@@ -1623,7 +1623,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 3,
-      "score": 29.989007735339506
+      "score": 29.981953144290124
     },
     {
       "title": "iPhone Duo Preorders Sell Out in Minutes: Backordered Until January",
@@ -1636,7 +1636,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.945373476080247
+      "score": 10.938318885030863
     },
     {
       "title": "Everything You Should Know About Mail Categories on Your iPhone",
@@ -1667,7 +1667,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.894898939043209
+      "score": 15.887844347993827
     },
     {
       "title": "Does Verizon’s Simplicity Phone Plan Live up to Its Name? We Compare It to MyPlan",
@@ -1697,7 +1697,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.751202951388889
+      "score": 15.744148360339507
     },
     {
       "title": "New Amazon Bee Personal AI Devices Will Listen and Record You",
@@ -1715,7 +1715,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 21.74043520447531
+      "score": 21.73338061342593
     },
     {
       "title": "Supreme Court Weighs Major Video Privacy Case",
@@ -1728,7 +1728,7 @@
       "hardwareCounts": {},
       "brandMatches": 0,
       "hardwareMatches": 0,
-      "score": 10.730832581018518
+      "score": 10.723777989969134
     },
     {
       "title": "Our Favorite Air Purifier Brand Just Released a Smaller, More Affordable Option",
@@ -1746,7 +1746,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 23.725277025462965
+      "score": 23.718222434413583
     },
     {
       "title": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say",
@@ -1765,7 +1765,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 27.042128877314816
+      "score": 27.035074286265434
     },
     {
       "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
@@ -1784,7 +1784,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 3,
-      "score": 25.00869137731482
+      "score": 25.001636786265433
     },
     {
       "title": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
@@ -1801,7 +1801,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 19.008429031635806
+      "score": 19.00137444058642
     },
     {
       "title": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
@@ -1819,7 +1819,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 24.002499247685186
+      "score": 23.995444656635804
     },
     {
       "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost",
@@ -1835,7 +1835,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 19.93370680941358
+      "score": 19.9266522183642
     },
     {
       "title": "Renting? These 2 new Apple smart home devices are worth your money (and these 5 are not)",
@@ -1854,7 +1854,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 3,
-      "score": 24.66324770447531
+      "score": 24.6561931095679
     },
     {
       "title": "Apple’s first touchscreen MacBook is days away – with another OLED surprise",
@@ -1875,7 +1875,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 5,
-      "score": 30.663174402006174
+      "score": 30.65611980709877
     },
     {
       "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
@@ -1890,7 +1890,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 12.683263136574073
+      "score": 12.676208541666666
     },
     {
       "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
@@ -1907,7 +1907,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 18.644898939043212
+      "score": 18.637844344135804
     },
     {
       "title": "Google’s new Universal Cart tracks prices on items you want now – plus 3 other tricks",
@@ -1922,7 +1922,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.617121161265432
+      "score": 15.610066566358025
     },
     {
       "title": "Google’s new Fitbit Edge solves my biggest gripe with the Pixel Watch",
@@ -1941,7 +1941,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 1,
-      "score": 27.617121161265434
+      "score": 27.610066566358025
     },
     {
       "title": "Windows update patches a whopping 1,400 security bugs –  including 2 zero days",
@@ -1958,7 +1958,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 19.297672858796297
+      "score": 19.290618263888888
     },
     {
       "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
@@ -1973,7 +1973,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 12.950454494598766
+      "score": 12.943399899691359
     },
     {
       "title": "Linus Torvalds is using AI to develop Linux kernel code now",
@@ -1992,7 +1992,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 3,
-      "score": 24.01313196373457
+      "score": 24.006077368827164
     },
     {
       "title": "Google lets you make personal Android apps for free now – with just prompts",
@@ -2010,7 +2010,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 21.006010050154323
+      "score": 20.998955455246914
     },
     {
       "title": "RapidCanvas raises $29M to build and run AI apps for enterprises",
@@ -2032,7 +2032,7 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 12,
-      "score": 76.92389970679012
+      "score": 76.91684511574074
     },
     {
       "title": "China’s CXMT swings to a nearly $20B profit as memory prices soar",
@@ -2054,7 +2054,7 @@
       },
       "brandMatches": 7,
       "hardwareMatches": 9,
-      "score": 72.91910032407408
+      "score": 72.91204573302468
     },
     {
       "title": "Kroger will cut 37% of its corporate workforce as it leans on technology",
@@ -2072,7 +2072,7 @@
       },
       "brandMatches": 7,
       "hardwareMatches": 1,
-      "score": 48.91900773148148
+      "score": 48.911953140432104
     },
     {
       "title": "Torvalds calls AI disclosure rules ‘utterly stupid’ as Linux drops its tag",
@@ -2092,7 +2092,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 8,
-      "score": 54.90949770061729
+      "score": 54.9024431095679
     },
     {
       "title": "MI5 opens an AI threat centre as OpenAI tells MPs more incidents may come",
@@ -2112,7 +2112,7 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 5,
-      "score": 55.90661189814815
+      "score": 55.89955730709877
     },
     {
       "title": "Trump’s AI task force starts work and tells labs to report rogue behaviour",
@@ -2131,7 +2131,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 4,
-      "score": 47.89979862654321
+      "score": 47.89274403549383
     },
     {
       "title": "MapQuest now shows Flock and other surveillance cameras on its map",
@@ -2152,7 +2152,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 5,
-      "score": 40.89570140432099
+      "score": 40.88864680941358
     },
     {
       "title": "Ramp passes $2bn in revenue as its Europe chief confirms the $60bn round",
@@ -2174,7 +2174,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 9,
-      "score": 57.894609583333335
+      "score": 57.887554988425926
     },
     {
       "title": "Accenture caps staff Claude spending at $29 a month, 404 Media reports",
@@ -2194,7 +2194,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 4,
-      "score": 37.89274615740741
+      "score": 37.8856915625
     },
     {
       "title": "Epic says it vibe coded its new launcher because ‘programming is hard’",
@@ -2219,7 +2219,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 9,
-      "score": 57.88982948688272
+      "score": 57.882774895833336
     }
   ]
 }
