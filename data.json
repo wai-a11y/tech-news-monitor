@@ -1,72 +1,72 @@
 {
-  "lastUpdated": "2026-11-07T06:43:20.278Z",
+  "lastUpdated": "2026-11-08T06:43:38.090Z",
   "summary": {
     "topBrands": [
       [
         "EA",
-        120
+        131
       ],
       [
         "X",
-        97
+        62
       ],
       [
-        "Tesla",
-        8
+        "Apple",
+        14
+      ],
+      [
+        "Nvidia",
+        9
       ],
       [
         "Google",
         7
       ],
       [
-        "Amazon",
-        7
-      ],
-      [
-        "Nvidia",
-        5
+        "Anthropic",
+        6
       ],
       [
         "Meta",
         5
       ],
       [
-        "Intel",
+        "Amazon",
         5
       ]
     ],
     "topHardware": [
       [
         "AI",
-        97
+        74
       ],
       [
         "OS",
-        42
+        44
       ],
       [
         "EV",
-        33
+        32
       ],
       [
         "app",
-        10
-      ],
-      [
-        "battery",
-        8
+        29
       ],
       [
         "data center",
+        9
+      ],
+      [
+        "screen",
         6
       ],
       [
-        "iOS",
+        "RAM",
         5
       ],
       [
-        "RAM",
-        4
+        "Mac",
+        5
       ]
     ],
     "totalArticles": 115,
@@ -96,7 +96,7 @@
       },
       "brandMatches": 13,
       "hardwareMatches": 10,
-      "score": 105.83664244984568
+      "score": 105.50324039737654
     },
     {
       "title": "Musk says government work will be under 10% of SpaceX revenue",
@@ -118,7 +118,7 @@
       },
       "brandMatches": 14,
       "hardwareMatches": 7,
-      "score": 101.8302921412037
+      "score": 101.49689008873457
     },
     {
       "title": "TSMC is weighing a move into AI memory chips at Nvidia’s request",
@@ -143,48 +143,89 @@
       },
       "brandMatches": 11,
       "hardwareMatches": 11,
-      "score": 98.80998735725308
+      "score": 98.47658530478395
     },
     {
-      "title": "Tesla to wind down Cybertruck production in mid-2027 to build Cybercabs",
-      "link": "https://thenextweb.com/news/tesla-cybertruck-production-wind-down-2027",
-      "date": "Fri, 06 Nov 2026 15:52:23 +0000",
-      "description": "Tesla will stop making most Cybertrucks at its Texas factory around the middle of next year, chief executive Elon Musk said on Friday. The space will instead be used to build more Cybercabs, the company’s two-seat robotaxis. Musk announced the plan in a post on X, but he did not say whether production would end […] This story continues at The Next Web",
+      "title": "House chairs ask Nvidia’s Jensen Huang to explain reported spy link",
+      "link": "https://thenextweb.com/news/house-chairs-jensen-huang-briefing-megaspeed",
+      "date": "Sat, 07 Nov 2026 10:05:00 +0000",
+      "description": "Three Republican House committee chairs have asked Nvidia chief executive Jensen Huang to attend a closed-door briefing on 18 November. They want to ask about his contacts with Alice Huang, a former executive at Megaspeed, and how Nvidia guards against spies.John Moolenaar, Brian Mast, and Rick Crawford sent the letter on Wednesday, according to a China […] This story continues at The Next Web",
       "source": "The Next Web",
       "sourceWeight": 1,
       "brandCounts": {
-        "EA": 3,
-        "Tesla": 2,
-        "X": 6
+        "Nvidia": 3,
+        "Ford": 1,
+        "X": 4
       },
       "hardwareCounts": {
-        "AI": 1,
-        "OS": 2
+        "AI": 4,
+        "OS": 1
       },
-      "brandMatches": 11,
-      "hardwareMatches": 3,
-      "score": 74.7937605015432
+      "brandMatches": 8,
+      "hardwareMatches": 5,
+      "score": 65.71327898148148
     },
     {
-      "title": "Amazon’s Alexa for Shopping agent will now take your orders by text",
-      "link": "https://thenextweb.com/news/amazon-alexa-for-shopping-text-message-agent",
-      "date": "Fri, 06 Nov 2026 16:48:29 +0000",
-      "description": "Amazon is rolling out texting for Alexa for Shopping, its AI shopping agent, starting with invited US customers. It can find products, place orders and track prices by text. Sponsored products can show up in its replies, free to advertisers for now. Amazon is letting shoppers text its AI shopping agent, Alexa for Shopping, which […] This story continues at The Next Web",
+      "title": "Anthropic reportedly must face claims its Claude Max ads misled users",
+      "link": "https://thenextweb.com/news/anthropic-claude-max-lawsuit-ruling-usage-claims",
+      "date": "Sat, 07 Nov 2026 12:15:11 +0000",
+      "description": "A US judge has ruled that Anthropic must face key claims that it misled customers about how much use they get from its Claude Max plans. Magistrate Judge Alex Tse dismissed several other claims on Friday, Courthouse News reported. The proposed class action, Kahn v. Anthropic, is in the federal court for northern California. TNW has […] This story continues at The Next Web",
       "source": "The Next Web",
       "sourceWeight": 1,
       "brandCounts": {
-        "Amazon": 3,
-        "X": 8
+        "Anthropic": 3,
+        "X": 4
       },
       "hardwareCounts": {
-        "AI": 2
+        "AI": 3,
+        "OS": 1,
+        "EV": 1
       },
-      "brandMatches": 11,
-      "hardwareMatches": 2,
-      "score": 71.80674661265432
+      "brandMatches": 7,
+      "hardwareMatches": 5,
+      "score": 60.74341401234568
     }
   ],
   "articles": [
+    {
+      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+      "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "date": "Sat, 07 Nov 2026 12:15:55 +0000",
+      "description": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 3,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "speaker": 1,
+        "OS": 1,
+        "EV": 1
+      },
+      "brandMatches": 4,
+      "hardwareMatches": 3,
+      "score": 40.043583796296296
+    },
+    {
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "date": "Sat, 07 Nov 2026 11:00:34 +0000",
+      "description": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "AI": 1,
+        "EV": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 2,
+      "score": 27.026141662808644
+    },
     {
       "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
       "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
@@ -204,7 +245,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 5,
-      "score": 31.1950028125
+      "score": 30.861600767746914
     },
     {
       "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
@@ -221,7 +262,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 34.18849046682098
+      "score": 33.855088422067894
     },
     {
       "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
@@ -239,7 +280,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 34.18089015817901
+      "score": 33.847488113425925
     },
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -254,7 +295,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 20.164200343364197
+      "score": 19.83079829861111
     },
     {
       "title": "Earth's churning mantle may have created the Great Unconformity",
@@ -273,7 +314,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 2,
-      "score": 42.15671191743827
+      "score": 41.823309872685186
     },
     {
       "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
@@ -289,7 +330,7 @@
       "hardwareCounts": {},
       "brandMatches": 3,
       "hardwareMatches": 0,
-      "score": 26.152352349537036
+      "score": 25.81895030478395
     },
     {
       "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
@@ -308,7 +349,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 3,
-      "score": 35.148833831018514
+      "score": 34.81543178626543
     },
     {
       "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
@@ -323,7 +364,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 14.140076114969137
+      "score": 13.806674070216049
     },
     {
       "title": "The folks behind John Wick are back with Karōshi trailer",
@@ -339,7 +380,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 17.130319166666666
+      "score": 16.796917125771607
     },
     {
       "title": "You know the launch market is tough when satellite companies start building rockets",
@@ -354,7 +395,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 16.12811237654321
+      "score": 15.794710331790125
     },
     {
       "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
@@ -375,7 +416,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 4,
-      "score": 48.11937395061728
+      "score": 47.785971905864194
     },
     {
       "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
@@ -393,7 +434,7 @@
       },
       "brandMatches": 7,
       "hardwareMatches": 1,
-      "score": 49.11092487654321
+      "score": 48.77752283179012
     },
     {
       "title": "Could potential AI clones of GTA VI force a quicker official port?",
@@ -411,43 +452,95 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 22.099968086419754
+      "score": 21.766566041666668
     },
     {
-      "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
-      "link": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
-      "date": "Fri, 06 Nov 2026 15:28:07 +0000",
-      "description": "It has the best laptop screen we've used, but there may be reasons to wait.",
-      "source": "Ars Technica",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "date": "Sat, 07 Nov 2026 22:07:22 +0000",
+      "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "source": "TechCrunch",
       "sourceWeight": 1.3,
       "brandCounts": {
         "EA": 1
       },
       "hardwareCounts": {
-        "laptop": 2,
-        "Mac": 1,
-        "screen": 1,
-        "AI": 1
+        "data center": 1
       },
       "brandMatches": 1,
-      "hardwareMatches": 5,
-      "score": 31.08814324074074
+      "hardwareMatches": 1,
+      "score": 19.18049351080247
     },
     {
-      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-      "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-      "date": "Fri, 06 Nov 2026 14:13:32 +0000",
-      "description": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
-      "source": "Ars Technica",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "date": "Sat, 07 Nov 2026 21:17:08 +0000",
+      "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "source": "TechCrunch",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "Nvidia": 1,
-        "Intel": 1
+        "Nvidia": 2,
+        "Intel": 1,
+        "EA": 2,
+        "X": 2
+      },
+      "hardwareCounts": {
+        "AI": 1
+      },
+      "brandMatches": 7,
+      "hardwareMatches": 1,
+      "score": 49.168865424382716
+    },
+    {
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "date": "Sat, 07 Nov 2026 19:00:00 +0000",
+      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "source": "TechCrunch",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "smartphone": 1,
+        "EV": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 2,
+      "score": 22.137121597222222
+    },
+    {
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "date": "Sat, 07 Nov 2026 17:24:07 +0000",
+      "description": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "source": "TechCrunch",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1
       },
       "hardwareCounts": {},
-      "brandMatches": 2,
+      "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 21.070878580246916
+      "score": 16.11492638117284
+    },
+    {
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "date": "Sat, 07 Nov 2026 17:18:00 +0000",
+      "description": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+      "source": "TechCrunch",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "Amazon": 2
+      },
+      "hardwareCounts": {
+        "display": 1,
+        "OS": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 2,
+      "score": 27.113510486111114
     },
     {
       "title": "Sequoia shutting down its Scouts program marks the end of an era",
@@ -464,7 +557,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 19.276519012345677
+      "score": 18.94311696759259
     },
     {
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
@@ -481,7 +574,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 1,
-      "score": 29.266059907407406
+      "score": 28.932657858796297
     },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -501,7 +594,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 4,
-      "score": 33.22989092592592
+      "score": 32.896488877314816
     },
     {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
@@ -520,7 +613,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 5,
-      "score": 41.191302962962965
+      "score": 40.85790091435185
     },
     {
       "title": "The Duo apps are coming, says Apple",
@@ -538,7 +631,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 5,
-      "score": 36.17378366898148
+      "score": 35.84038162422839
     },
     {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
@@ -558,7 +651,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 5,
-      "score": 51.133633206018516
+      "score": 50.80023116126543
     },
     {
       "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
@@ -576,7 +669,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 1,
-      "score": 29.133563761574077
+      "score": 28.80016171682099
     },
     {
       "title": "After the midterms, is the AI industry in for a rough two years?",
@@ -596,7 +689,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 7,
-      "score": 42.1149372183642
+      "score": 41.78153517361111
     },
     {
       "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
@@ -612,7 +705,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 20.10710157021605
+      "score": 19.773699525462963
     },
     {
       "title": "Fox completes its $22B acquisition of Roku",
@@ -628,95 +721,203 @@
       "hardwareCounts": {},
       "brandMatches": 4,
       "hardwareMatches": 0,
-      "score": 31.09681993441358
+      "score": 30.763417889660495
     },
     {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "date": "Fri, 06 Nov 2026 15:54:47 +0000",
-      "description": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
+      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+      "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
+      "date": "Sat, 07 Nov 2026 13:00:00 +0000",
+      "description": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
       "brandCounts": {
-        "EA": 1,
-        "Anthropic": 1
+        "EA": 1
       },
       "hardwareCounts": {
-        "RAM": 1,
-        "AI": 3,
-        "OS": 1
+        "EV": 1
       },
-      "brandMatches": 2,
-      "hardwareMatches": 5,
-      "score": 36.094316076388886
-    },
-    {
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "date": "Fri, 06 Nov 2026 14:10:00 +0000",
-      "description": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "Amazon": 2,
-        "EA": 1,
-        "X": 2
-      },
-      "hardwareCounts": {
-        "AI": 1
-      },
-      "brandMatches": 5,
+      "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 39.07006067515432
+      "score": 18.95378825617284
     },
     {
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "date": "Fri, 06 Nov 2026 13:02:16 +0000",
-      "description": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
+      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
+      "link": "https://www.wired.com/gallery/best-wifi-routers/",
+      "date": "Sat, 07 Nov 2026 12:00:00 +0000",
+      "description": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
       "brandCounts": {},
-      "hardwareCounts": {},
+      "hardwareCounts": {
+        "router": 2,
+        "Wi-Fi": 1,
+        "OS": 1,
+        "EV": 1
+      },
       "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 11.054381662808641
+      "hardwareMatches": 5,
+      "score": 25.93989936728395
     },
     {
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "date": "Fri, 06 Nov 2026 13:00:00 +0000",
-      "description": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
+      "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
+      "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
+      "date": "Sat, 07 Nov 2026 11:45:00 +0000",
+      "description": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Bose, and more.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
       "brandCounts": {
+        "Apple": 1,
+        "Sony": 1,
+        "EA": 5
+      },
+      "hardwareCounts": {
+        "headphones": 1,
+        "earbuds": 1,
+        "OS": 1,
+        "app": 1
+      },
+      "brandMatches": 7,
+      "hardwareMatches": 4,
+      "score": 57.93642714120371
+    },
+    {
+      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+      "link": "https://www.wired.com/gallery/best-cat-water-fountains/",
+      "date": "Sat, 07 Nov 2026 11:37:00 +0000",
+      "description": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "AI": 2
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 2,
+      "score": 21.93457528935185
+    },
+    {
+      "title": "This Totally Free App Can Free Up Space on Your Mac",
+      "link": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+      "date": "Sat, 07 Nov 2026 11:15:00 +0000",
+      "description": "Stop paying for disk cleaners. This open source utility safely clears hidden caches, leftover app junk, and even gigabytes of offline Apple Intelligence models.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Apple": 1,
+        "Intel": 1,
+        "Gigabyte": 1,
         "EA": 2
       },
       "hardwareCounts": {
-        "AI": 1
+        "Mac": 1,
+        "app": 3,
+        "EV": 1
       },
-      "brandMatches": 2,
-      "hardwareMatches": 1,
-      "score": 24.053856971450617
+      "brandMatches": 5,
+      "hardwareMatches": 5,
+      "score": 50.929482696759266
     },
     {
-      "title": "Tesla will stop making the Cybertruck in 2027",
-      "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-      "date": "Fri, 06 Nov 2026 11:50:10 +0000",
-      "description": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
+      "title": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off",
+      "link": "https://www.wired.com/story/goruck-black-friday-sale-2026/",
+      "date": "Sat, 07 Nov 2026 11:00:00 +0000",
+      "description": "Skip the gym and get outdoors with GoRuck’s indestructible packs and workout gear, deeply discounted ahead of the holidays.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
       "brandCounts": {
-        "EA": 1,
-        "Tesla": 1
+        "EA": 3
+      },
+      "hardwareCounts": {},
+      "brandMatches": 3,
+      "hardwareMatches": 0,
+      "score": 25.926010474537037
+    },
+    {
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "date": "Sat, 07 Nov 2026 11:00:00 +0000",
+      "description": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "AI": 2,
+        "OS": 1,
+        "app": 2,
+        "platform": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 6,
+      "score": 28.926010474537037
+    },
+    {
+      "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
+      "link": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
+      "date": "Sat, 07 Nov 2026 11:00:00 +0000",
+      "description": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 1
       },
       "hardwareCounts": {
-        "AI": 1,
-        "EV": 1
+        "power bank": 2,
+        "USB-C": 1,
+        "API": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 4,
+      "score": 27.926010474537037
+    },
+    {
+      "title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
+      "link": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
+      "date": "Sat, 07 Nov 2026 11:00:00 +0000",
+      "description": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Oppo": 1,
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "data center": 2
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 27.037691847993827
+      "score": 26.926010474537037
+    },
+    {
+      "title": "The 19 Best Early Black Friday Deals 2026",
+      "link": "https://www.wired.com/story/best-black-friday-deals-11-7-2026/",
+      "date": "Sat, 07 Nov 2026 10:16:00 +0000",
+      "description": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can already get right now.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 5
+      },
+      "hardwareCounts": {},
+      "brandMatches": 5,
+      "hardwareMatches": 0,
+      "score": 35.91582528935186
+    },
+    {
+      "title": "The American Dream Wasn’t Built for Climate Change",
+      "link": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+      "date": "Sat, 07 Nov 2026 10:00:00 +0000",
+      "description": "Owning a home is billed as a way to build wealth, but amid climate-related disasters, for many, it's beginning to feel like a trap.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 2
+      },
+      "hardwareCounts": {},
+      "brandMatches": 2,
+      "hardwareMatches": 0,
+      "score": 20.912121585648148
     },
     {
       "title": "The Cybertruck’s Death Is Actually Great News for EVs",
@@ -737,7 +938,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 5,
-      "score": 51.08609076388889
+      "score": 50.752688715277785
     },
     {
       "title": "How Stephen Miller Schemed His Way to the Top",
@@ -752,7 +953,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 16.067290609567902
+      "score": 15.733888560956789
     },
     {
       "title": "Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026",
@@ -769,7 +970,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 19.035882430555557
+      "score": 18.702480381944444
     },
     {
       "title": "Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites",
@@ -784,466 +985,324 @@
       "hardwareCounts": {},
       "brandMatches": 5,
       "hardwareMatches": 0,
-      "score": 36.035211134259264
+      "score": 35.70180908564815
     },
     {
-      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "date": "Fri, 06 Nov 2026 18:43:43 +0000",
-      "description": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "source": "Wired",
+      "title": "Syncing Apple Music across your devices is easier than you think",
+      "link": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+      "date": "Sun, 08 Nov 2026 01:30:00 +0000",
+      "description": "One perk of subscribing to Apple Music is having your collection synced across all your devices - and all it takes is a simple toggle. Here's how.",
+      "source": "Engadget",
       "sourceWeight": 1.2,
       "brandCounts": {
-        "EA": 1,
-        "OpenAI": 1,
-        "X": 1
+        "Apple": 2,
+        "EA": 1
       },
       "hardwareCounts": {
-        "AI": 3,
-        "AI model": 2,
-        "OS": 1
+        "OS": 2,
+        "app": 2,
+        "EV": 2
       },
       "brandMatches": 3,
       "hardwareMatches": 6,
-      "score": 44.03342101080247
+      "score": 44.12739936342593
     },
     {
-      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-      "date": "Fri, 06 Nov 2026 16:00:00 +0000",
-      "description": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-      "source": "Wired",
+      "title": "Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program",
+      "link": "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/",
+      "date": "Sun, 08 Nov 2026 01:00:00 +0000",
+      "description": "Samsung appears to be preparing the One UI 9.5 beta program ahead of an expected 2027 launch. Here's what to do if you want to test Samsung's latest OS.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Samsung": 3,
+        "EA": 2,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "RAM": 2,
+        "OS": 1,
+        "beta": 2,
+        "app": 1
+      },
+      "brandMatches": 6,
+      "hardwareMatches": 6,
+      "score": 59.12045491898149
+    },
+    {
+      "title": "How do spam callers get your number in the first place?",
+      "link": "https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/",
+      "date": "Sun, 08 Nov 2026 00:45:00 +0000",
+      "description": "Ever wonder how a total stranger ended up with your phone number? The answer starts earlier than you think, and a few small habits can keep it from spreading.",
+      "source": "Engadget",
       "sourceWeight": 1.2,
       "brandCounts": {
         "EA": 2
       },
       "hardwareCounts": {
-        "AI": 4,
-        "AI model": 1,
         "EV": 1
       },
       "brandMatches": 2,
-      "hardwareMatches": 6,
-      "score": 38.995523634259264
+      "hardwareMatches": 1,
+      "score": 24.11698269675926
     },
     {
-      "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
-      "link": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
-      "date": "Fri, 06 Nov 2026 14:20:59 +0000",
-      "description": "The decision to halt production of Tesla’s polarizing polygonal pickup marks the end of an error.",
-      "source": "Wired",
+      "title": "What does Apple One Family come with and which subscription is best for you?",
+      "link": "https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/",
+      "date": "Sun, 08 Nov 2026 00:30:00 +0000",
+      "description": "Apple One offers strong value if you're using a lot of Apple services anyway, but make sure you do the math before signing up.",
+      "source": "Engadget",
       "sourceWeight": 1.2,
       "brandCounts": {
-        "Tesla": 1
+        "Apple": 3
+      },
+      "hardwareCounts": {
+        "app": 3
+      },
+      "brandMatches": 3,
+      "hardwareMatches": 3,
+      "score": 35.11351047067902
+    },
+    {
+      "title": "10 useful iPad apps that could make your daily life easier",
+      "link": "https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/",
+      "date": "Sun, 08 Nov 2026 00:15:00 +0000",
+      "description": "Your iPad can do a lot with the right apps. Go beyond Apple's defaults and try these useful offerings that all have great free tiers.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Apple": 1,
+        "EA": 2
+      },
+      "hardwareCounts": {
+        "AI": 1,
+        "app": 3
+      },
+      "brandMatches": 3,
+      "hardwareMatches": 4,
+      "score": 38.110038248456796
+    },
+    {
+      "title": "Why you shouldn't remove the screen protector film on your Nintendo Switch 2",
+      "link": "https://www.engadget.com/2307095/why-keep-nintendo-switch-2-screen-protector/",
+      "date": "Sun, 08 Nov 2026 00:00:00 +0000",
+      "description": "The Switch 2 comes with a protective film on its screen, and you may be tempted to peel it off. Here's why you shouldn't.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Nintendo": 1
+      },
+      "hardwareCounts": {
+        "screen": 2,
+        "Nintendo Switch": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 3,
+      "score": 25.106566026234567
+    },
+    {
+      "title": "Why you should never put your PlayStation 5 on a carpeted floor",
+      "link": "https://www.engadget.com/2306821/why-never-put-playstation-5-on-carpeted-floor/",
+      "date": "Sat, 07 Nov 2026 23:45:00 +0000",
+      "description": "The PlayStation 5 needs to stay cool when playing games, and a carpet is a literal hotbed. Here's the best ways to store a PS5 while keeping it cool.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "PlayStation": 2,
+        "EV": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 3,
+      "score": 20.103093804012342
+    },
+    {
+      "title": "The pros and cons of using an Amazfit smartwatch",
+      "link": "https://www.engadget.com/2306820/using-amazfit-smartwatch-pros-and-cons/",
+      "date": "Sat, 07 Nov 2026 23:30:00 +0000",
+      "description": "Thinking about an Amazfit smartwatch? Find out what makes these budget wearables so appealing and where they fall short before you spend your money.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 2
+      },
+      "hardwareCounts": {
+        "wearable": 1,
+        "smartwatch": 2,
+        "OS": 1,
+        "app": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 5,
+      "score": 36.09962158179013
+    },
+    {
+      "title": "Claude Personal Finance vs. ChatGPT Finances: What sets them apart?",
+      "link": "https://www.engadget.com/2310182/claude-vs-chatgpt-personal-finance-comparison/",
+      "date": "Sat, 07 Nov 2026 23:10:20 +0000",
+      "description": "Both AI tools offer to delve deep into your bank accounts, but they differ in privacy settings.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "AI": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 14.09506911265432
+    },
+    {
+      "title": "What discs can a PlayStation 5 play?",
+      "link": "https://www.engadget.com/2306942/playstation-5-playable-discs-explained/",
+      "date": "Sat, 07 Nov 2026 23:00:00 +0000",
+      "description": "The PS5 can't play every disc that the PS3 and PS4 were compatible with, but most of what you'll want to play and watch is supported.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "PlayStation": 1,
+        "OS": 1,
+        "EV": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 3,
+      "score": 20.092677137345678
+    },
+    {
+      "title": "What does NAT type mean for online gaming?",
+      "link": "https://www.engadget.com/2309599/what-nat-type-means-online-gaming/",
+      "date": "Sat, 07 Nov 2026 22:30:00 +0000",
+      "description": "If you regularly play online games, you may have noticed a setting called NAT type or even got an alert about it. Here's what it means and why it matters.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 2
+      },
+      "hardwareCounts": {
+        "Matter": 1,
+        "EV": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 2,
+      "score": 27.085732692901235
+    },
+    {
+      "title": "The disadvantages of owning smart refrigerators",
+      "link": "https://www.engadget.com/2309569/disadvantages-owning-smart-refrigerators/",
+      "date": "Sat, 07 Nov 2026 22:15:00 +0000",
+      "description": "A smart refrigerator can change how you manage your kitchen, but its features come with practical drawbacks worth checking before making a purchase.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 1
       },
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.9726031095679
+      "score": 16.08226047067901
     },
     {
-      "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
-      "link": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
-      "date": "Fri, 06 Nov 2026 12:05:00 +0000",
-      "description": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
-      "source": "Wired",
+      "title": "Is your router overheating? Here's how to keep it cool and working safely",
+      "link": "https://www.engadget.com/2306359/how-to-keep-router-from-overheating/",
+      "date": "Sat, 07 Nov 2026 22:00:00 +0000",
+      "description": "You'll want your router to be well-ventilated for it to perform at its best.",
+      "source": "Engadget",
       "sourceWeight": 1.2,
       "brandCounts": {
-        "X": 2
-      },
-      "hardwareCounts": {},
-      "brandMatches": 2,
-      "hardwareMatches": 0,
-      "score": 20.941125486111112
-    },
-    {
-      "title": "Horny Grandmas Are Having a Moment",
-      "link": "https://www.wired.com/story/horny-grandmas-are-having-a-moment/",
-      "date": "Fri, 06 Nov 2026 12:00:00 +0000",
-      "description": "Creators in their sixties, seventies, and eighties have flooded adult platforms as the demand for mature content has skyrocketed, with some turning to online sex work as a retirement lifeline.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "EA": 1,
-        "X": 2
+        "EA": 1
       },
       "hardwareCounts": {
-        "platform": 1,
-        "EV": 1
+        "router": 2
       },
-      "brandMatches": 3,
+      "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 31.939968078703703
+      "score": 22.07878824845679
     },
     {
-      "title": "Kitchen Composters I Recommend After 2 Years of Testing (2026)",
-      "link": "https://www.wired.com/story/home-composters-buying-guide/",
-      "date": "Fri, 06 Nov 2026 11:30:00 +0000",
-      "description": "After enduring years of smells, strange noises, and waste “tea,” I’ve found the composters and food recyclers I’d actually recommend.",
-      "source": "Wired",
+      "title": "How often should you restart your Fitbit watch?",
+      "link": "https://www.engadget.com/2309565/how-often-should-restart-fitbit-watch/",
+      "date": "Sat, 07 Nov 2026 21:45:00 +0000",
+      "description": "The old \"turn it off and turn it on again\" trick can come in handy for certain situations.",
+      "source": "Engadget",
       "sourceWeight": 1.2,
       "brandCounts": {
-        "EA": 3
+        "Fitbit": 1
       },
       "hardwareCounts": {
-        "OS": 2
+        "AI": 2
       },
-      "brandMatches": 3,
+      "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 31.93302363425926
+      "score": 22.075316026234567
     },
     {
-      "title": "10 Best Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More",
-      "link": "https://www.wired.com/gallery/best-subscription-boxes-for-kids/",
-      "date": "Fri, 06 Nov 2026 11:00:00 +0000",
-      "description": "These monthly deliveries get kids reading, coding, and cooking while encouraging them to learn about science and the world.",
-      "source": "Wired",
+      "title": "The built-in iPhone app for creativity you may be ignoring (but shouldn't)",
+      "link": "https://www.engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform/",
+      "date": "Sat, 07 Nov 2026 21:30:00 +0000",
+      "description": "Your iPhone has a built-in app for brainstorming and visual planning that can turn scattered screenshots, sketches and notes into something you can share.",
+      "source": "Engadget",
       "sourceWeight": 1.2,
       "brandCounts": {
-        "Oura": 1,
-        "EA": 2,
-        "X": 1
+        "EA": 1
       },
-      "hardwareCounts": {},
-      "brandMatches": 4,
-      "hardwareMatches": 0,
-      "score": 30.926079189814814
-    },
-    {
-      "title": "Can a Radar-Equipped AC Actually Cut Your Power Bill?",
-      "link": "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/",
-      "date": "Fri, 06 Nov 2026 11:00:00 +0000",
-      "description": "Air conditioners can now follow you from room to room to cut power draw. Saving the planet, however, won’t come from a smarter breeze.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
       "hardwareCounts": {
+        "screen": 1,
         "AI": 1,
-        "EV": 1
+        "app": 2
       },
-      "brandMatches": 0,
-      "hardwareMatches": 2,
-      "score": 16.926079189814814
+      "brandMatches": 1,
+      "hardwareMatches": 4,
+      "score": 28.071843804012346
     },
     {
-      "title": "Greenlight Family Hub Digital Wall Calendar Black Friday Sale (2026)",
-      "link": "https://www.wired.com/story/greenlight-hub-black-friday-deal-2026/",
-      "date": "Fri, 06 Nov 2026 10:30:00 +0000",
-      "description": "The Greenlight Family Hub displays your family calendars, manages your kid’s chores, and doubles as a photo frame. It’s also already discounted ahead of Black Friday.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
+      "title": "Wendy’s Just Released a Video Game Where You Can Win Fast Food",
+      "link": "https://www.cnet.com/tech/gaming/wendys-video-game-fast-food/",
+      "date": "2026-11-07T22:43:20.000Z",
+      "description": "",
+      "source": "CNET News",
+      "sourceWeight": 1.1,
       "brandCounts": {
-        "EA": 2
-      },
-      "hardwareCounts": {
-        "RAM": 1,
-        "display": 1
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 2,
-      "score": 26.91913474537037
-    },
-    {
-      "title": "6 Best VPN Services (2026), Tested and Reviewed",
-      "link": "https://www.wired.com/gallery/best-vpn/",
-      "date": "Thu, 05 Nov 2026 23:00:00 +0000",
-      "description": "Every VPN says it’s the best, but only some of them are telling the truth.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "EV": 2
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 2,
-      "score": 16.75941252314815
-    },
-    {
-      "title": "The 7 Best Early Black Friday TV Deals (2026)",
-      "link": "https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/",
-      "date": "Thu, 05 Nov 2026 22:28:43 +0000",
-      "description": "I found discounts of up to half off some of the top WIRED-tested TVs.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "EA": 2
+        "EA": 1
       },
       "hardwareCounts": {},
-      "brandMatches": 2,
+      "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 20.752171010802467
+      "score": 15.98881911265432
     },
     {
-      "title": "Google's eyewear partners can't keep a lid on its smart glasses plans",
-      "link": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/",
-      "date": "Fri, 06 Nov 2026 19:45:23 +0000",
-      "description": "Gentle Monster shared that its \"Intelligent Eyewear\" will be available to pre-order on November 12.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Google": 1,
-        "Intel": 1,
-        "EA": 2
-      },
-      "hardwareCounts": {
-        "AI": 1
-      },
-      "brandMatches": 4,
-      "hardwareMatches": 1,
-      "score": 34.04769569830247
-    },
-    {
-      "title": "Fox wraps up its $22 billion Roku deal",
-      "link": "https://www.engadget.com/2309307/fox-wraps-up-its-dollar22-billion-roku-deal/",
-      "date": "Fri, 06 Nov 2026 17:20:32 +0000",
-      "description": "No Hannity on your home screen, at least for now.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "EA": 2,
-        "X": 1
-      },
+      "title": "Roku Retires Fish Tank Screensaver to Reel Viewers Into Roku City",
+      "link": "https://www.cnet.com/tech/home-entertainment/roku-retires-aquatic-life-screensaver-2/",
+      "date": "2026-11-04T00:05:51.000Z",
+      "description": "",
+      "source": "CNET News",
+      "sourceWeight": 1.1,
+      "brandCounts": {},
       "hardwareCounts": {
         "screen": 1
       },
-      "brandMatches": 3,
-      "hardwareMatches": 1,
-      "score": 29.014165605709877
-    },
-    {
-      "title": "The EU accuses TikTok's 'rabbit hole' algorithm of breaching its content rules",
-      "link": "https://www.engadget.com/2309300/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules/",
-      "date": "Fri, 06 Nov 2026 17:17:14 +0000",
-      "description": "The bloc said the platform needs to change how the For You page works to help protect users' mental health.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "LG": 1,
-        "TikTok": 1,
-        "EA": 2
-      },
-      "hardwareCounts": {
-        "AI": 1,
-        "platform": 1
-      },
-      "brandMatches": 4,
-      "hardwareMatches": 2,
-      "score": 37.013401716820994
-    },
-    {
-      "title": "You'll soon be able to text Alexa to shop on Amazon",
-      "link": "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/",
-      "date": "Fri, 06 Nov 2026 17:11:10 +0000",
-      "description": "The latest Alexa for shopping feature is initially available by invite in the US.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Amazon": 1,
-        "EA": 1,
-        "X": 3
-      },
-      "hardwareCounts": {
-        "AI": 1
-      },
-      "brandMatches": 5,
-      "hardwareMatches": 1,
-      "score": 39.01199739583333
-    },
-    {
-      "title": "DOJ just launched something called the Super Intelligence Task Force",
-      "link": "https://www.engadget.com/2309257/doj-just-launched-something-called-the-super-intelligence-task-force/",
-      "date": "Fri, 06 Nov 2026 16:56:52 +0000",
-      "description": "The unit is tasked with ensuring that the technology is not \"manipulated by bad actors at home or abroad.\"",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Intel": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 16.008687210648148
-    },
-    {
-      "title": "Eufy's clever outdoor security camera that lives inside is now available to buy",
-      "link": "https://www.engadget.com/2309176/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/",
-      "date": "Fri, 06 Nov 2026 16:16:20 +0000",
-      "description": "The $80 Window Camera E10 sticks to your window, pointed outwards.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "camera": 2,
-        "security camera": 1,
-        "AI": 1,
-        "EV": 1
-      },
       "brandMatches": 0,
-      "hardwareMatches": 5,
-      "score": 25.999304494598764
-    },
-    {
-      "title": "A Stranger Things prequel series is coming to Netflix in 2028",
-      "link": "https://www.engadget.com/2309062/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/",
-      "date": "Fri, 06 Nov 2026 15:09:52 +0000",
-      "description": "Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "X": 1,
-        "Netflix": 1
-      },
-      "hardwareCounts": {
-        "EV": 1
-      },
-      "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 23.98391869212963
+      "score": 12.674586859567901
     },
     {
-      "title": "Anker Soundcore Space 2 Pro review: Big bang for fewer bucks",
-      "link": "https://www.engadget.com/2309011/anker-soundcore-space-2-pro-review/",
-      "date": "Fri, 06 Nov 2026 15:00:00 +0000",
-      "description": "The Space 2 Pro is a set of slightly above average headphones with exceptional voice clarity.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
+      "title": "iPhone Duo vs. Galaxy Z Fold 8 Camera Comparison: Frolicking With Apple’s and Samsung’s Foldables",
+      "link": "https://www.cnet.com/tech/mobile/iphone-duo-vs-galaxy-z-fold-8-camera-comparison/",
+      "date": "2026-11-07T13:00:00.000Z",
+      "description": "",
+      "source": "CNET News",
+      "sourceWeight": 1.1,
       "brandCounts": {
-        "EA": 1,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "headphones": 1,
-        "EV": 1
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 2,
-      "score": 26.981634741512345
-    },
-    {
-      "title": "Google's Find Hub can finally notify you if you've left a tracker behind",
-      "link": "https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/",
-      "date": "Fri, 06 Nov 2026 13:05:16 +0000",
-      "description": "Google has rolled out 'Notify when left behind' separation alerts for your tracking devices.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Google": 2
-      },
-      "hardwareCounts": {
-        "EV": 1
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 1,
-      "score": 23.955076099537035
-    },
-    {
-      "title": "Samsung Galaxy Watch Ultra 2 review: The new standard for smartwatch battery life",
-      "link": "https://www.engadget.com/2306413/samsung-galaxy-watch-ultra-2-review-2026/",
-      "date": "Fri, 06 Nov 2026 13:00:00 +0000",
-      "description": "With its bright display and battery life, the Galaxy Watch Ultra 2 hits the sweet spot for smartwatch hardware.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
+        "Apple": 1,
         "Samsung": 1,
-        "X": 2
-      },
-      "hardwareCounts": {
-        "display": 1,
-        "smartwatch": 2,
-        "battery": 2,
-        "EV": 1
-      },
-      "brandMatches": 3,
-      "hardwareMatches": 6,
-      "score": 43.953856963734566
-    },
-    {
-      "title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
-      "link": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
-      "date": "Fri, 06 Nov 2026 11:40:53 +0000",
-      "description": "Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Tesla": 2,
-        "X": 2
-      },
-      "hardwareCounts": {},
-      "brandMatches": 4,
-      "hardwareMatches": 0,
-      "score": 30.935542920524693
-    },
-    {
-      "title": "Perplexity's 'teammates' are the company's AI agents for daily work tasks",
-      "link": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-      "date": "Fri, 06 Nov 2026 11:18:59 +0000",
-      "description": "Perplexity launches personal AI agents that can act as your 'teammates.'",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "EA": 2,
-        "Perplexity": 2,
-        "X": 2
-      },
-      "hardwareCounts": {
-        "AI": 3
-      },
-      "brandMatches": 6,
-      "hardwareMatches": 3,
-      "score": 49.93047347608025
-    },
-    {
-      "title": "The New York Times Company is reportedly trying to buy Letterboxd for $330 million",
-      "link": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
-      "date": "Fri, 06 Nov 2026 10:17:23 +0000",
-      "description": "The New York Times Company declined to comment on The New York Times' story.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "X": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 15.916214212962961
-    },
-    {
-      "title": "Airbnb is threatening to launch an AI travel agent next year",
-      "link": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
-      "date": "Fri, 06 Nov 2026 07:51:42 +0000",
-      "description": "Airbnb is developing an AI travel agent that it says will eventually be able to help plan your whole trip.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "EA": 2,
         "X": 1
       },
       "hardwareCounts": {
-        "AI": 4,
-        "EV": 2
-      },
-      "brandMatches": 3,
-      "hardwareMatches": 6,
-      "score": 43.8824912191358
-    },
-    {
-      "title": "Blue Origin's New Glenn launch delay will continue into 2027",
-      "link": "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/",
-      "date": "Thu, 05 Nov 2026 22:10:09 +0000",
-      "description": "Repairs have been slow after an explosion earlier this year.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "EA": 2,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "AI": 1,
-        "OS": 1
+        "camera": 1,
+        "app": 1
       },
       "brandMatches": 3,
       "hardwareMatches": 2,
-      "score": 31.747873163580245
+      "score": 31.853788248456794
     },
     {
       "title": "Apple Says There Are Now 100,000 Apps Built for the iPhone Duo",
@@ -1260,7 +1319,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 21.996252793209877
+      "score": 21.66285074845679
     },
     {
       "title": "Good Riddance: Tesla to End Cybertruck Production in 2027",
@@ -1275,7 +1334,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.970921003086419
+      "score": 15.637518958333333
     },
     {
       "title": "Do You Speak Geek? 5 Tech Terms That Endure, and 5 That Got Defragged",
@@ -1290,7 +1349,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.953941836419753
+      "score": 15.620539791666667
     },
     {
       "title": "CNET People’s Picks: Readers Say This Brand Wins as the Top Laptop Choice",
@@ -1307,7 +1366,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 18.18719029320988
+      "score": 17.853788248456794
     },
     {
       "title": "There’s a New Way to Shop With AI. Text Alexa",
@@ -1324,7 +1383,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 23.94980989197531
+      "score": 23.616407847222224
     },
     {
       "title": "OpenAI and Anthropic Drop New AI Tools for Cybersecurity, Images and Finance",
@@ -1342,7 +1401,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 26.925681805555556
+      "score": 26.59227976080247
     },
     {
       "title": "Live Now! Watch as This iPhone Duo Crosses 300K Folds in Our Custom Machine",
@@ -1358,7 +1417,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 13.242803719135802
+      "score": 12.909401674382716
     },
     {
       "title": "Bluetooth 7 Speeds Are Set to Quadruple in 2027, Especially for Audio",
@@ -1373,7 +1432,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.675917145061726
+      "score": 13.34251510030864
     },
     {
       "title": "Amazon Deals of the Day: Clean Up Before the Holidays With Over $100 Off the Dyson Ball Animal Vacuum",
@@ -1389,7 +1448,7 @@
       "hardwareCounts": {},
       "brandMatches": 3,
       "hardwareMatches": 0,
-      "score": 25.90335927469136
+      "score": 25.56995722608025
     },
     {
       "title": "Will Democrats Rein in Big Tech? It Starts With Privacy and Data Centers",
@@ -1404,7 +1463,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.894960354938272
+      "score": 13.561558306327159
     },
     {
       "title": "The Step-by-Step Guide to Shutting Off Apple Intelligence Features in iOS 27",
@@ -1441,264 +1500,197 @@
       "score": 1.1
     },
     {
-      "title": "You Should Update to iOS 27.2 Now to Patch Hundreds of Bugs",
-      "link": "https://www.cnet.com/tech/services-and-software/download-ios-27-2-patch-bugs/",
-      "date": "2026-10-28T16:34:08.000Z",
-      "description": "",
-      "source": "CNET News",
-      "sourceWeight": 1.1,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "OS": 1,
-        "iOS": 1,
-        "update": 1,
-        "patch": 1
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 4,
-      "score": 19.903424861111112
-    },
-    {
-      "title": "A Wall-Mounted Smart Garden Is Peak Winter Decor (and a Great Gift)",
-      "link": "https://www.cnet.com/tech/modern-sprout-wall-mounted-garden-frame/",
-      "date": "2026-11-06T10:56:00.000Z",
-      "description": "",
-      "source": "CNET News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "EA": 2
-      },
-      "hardwareCounts": {},
-      "brandMatches": 2,
-      "hardwareMatches": 0,
-      "score": 20.82515325617284
-    },
-    {
-      "title": "Save Up to $700 in Eufy’s Early Black Friday Sale: Exclusive CNET Codes on Robot Vacuums and Home Security",
-      "link": "https://www.cnet.com/tech/eufy-black-friday-sale-2026/",
-      "date": "2026-11-06T07:19:16.000Z",
-      "description": "",
-      "source": "CNET News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "EA": 1,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "robot vacuum": 1
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 1,
-      "score": 23.77498350308642
-    },
-    {
-      "title": "Can You Damage A Car By Jump-Starting It?",
-      "link": "https://www.slashgear.com/2304311/can-you-damage-car-by-jump-starting-battery/",
-      "date": "Sat, 07 Nov 2026 04:45:00 +0000",
-      "description": "You may have heard that jump starting a car can cause damage to the donor vehicle and to the one that's being jump started. Here's what you need to know.",
+      "title": "Why Some License Plates Have '5G' On Them (It's Not What You Think)",
+      "link": "https://www.slashgear.com/2304652/why-indiana-license-plates-have-5g-explained/",
+      "date": "Sun, 08 Nov 2026 03:45:00 +0000",
+      "description": "A woman in Indiana found a license plate with \"5G\" printed on it in small print. It's there for a reason, but it's definitely not what you're thinking.",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
         "EA": 1
       },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 16.272606959876544
-    },
-    {
-      "title": "Who Owns Fenix Flashlights And Where Are They Made?",
-      "link": "https://www.slashgear.com/2304095/who-owns-fenix-flashlights-where-made/",
-      "date": "Sat, 07 Nov 2026 03:45:00 +0000",
-      "description": "Flashlights are an accessory that absolutely must work when required. That's why it is good to know who is building the one you're thinking of buying.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "X": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 16.258718070987655
-    },
-    {
-      "title": "Climate Scientists Found A Surprise Hiding Under A Cold War Military Base",
-      "link": "https://www.slashgear.com/2304102/climate-scientists-cold-war-military-base-samples/",
-      "date": "Sat, 07 Nov 2026 02:45:00 +0000",
-      "description": "More than 60 years after this military base was built, scientists have made a discovery that could help us better understand the world's climate.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 16.244829182098766
-    },
-    {
-      "title": "5 4x4 Off-Road SUVs With Better Ratings Than The Jeep Wrangler",
-      "link": "https://www.slashgear.com/2304066/off-road-4x4-suvs-with-better-ratings-than-jeep-wrangler/",
-      "date": "Sat, 07 Nov 2026 00:45:00 +0000",
-      "description": "The Jeep Wrangler is an iconic 4x4 offroad SUV with its origins dating back to WWII, but there are more than a few competitors to it that have better ratings.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "X": 2
-      },
-      "hardwareCounts": {},
-      "brandMatches": 2,
-      "hardwareMatches": 0,
-      "score": 21.217051404320987
-    },
-    {
-      "title": "$600K Electronic Airline Scam Lands Florida Man In Federal Prison",
-      "link": "https://www.slashgear.com/2308634/florida-airline-scam-federal-prison-sentence/",
-      "date": "Fri, 06 Nov 2026 22:15:00 +0000",
-      "description": "An airline reservation can be changed for plenty of legitimate reasons. In one Florida fraud case, that everyday process became part of a yearslong scheme.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 2
-      },
       "hardwareCounts": {
-        "AI": 2,
-        "EV": 1
+        "5G": 2
       },
-      "brandMatches": 2,
-      "hardwareMatches": 3,
-      "score": 30.182329182098766
-    },
-    {
-      "title": "Can You Use A Regular Jump Starter On A Hybrid Battery?",
-      "link": "https://www.slashgear.com/2304042/can-you-use-jump-starter-on-hybrid-battery/",
-      "date": "Fri, 06 Nov 2026 21:45:00 +0000",
-      "description": "Most drivers have probably had to jump start a car battery at some point or another. The process is different for hybrids than it is for other vehicles.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "battery": 2,
-        "OS": 1
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 3,
-      "score": 20.175384737654323
-    },
-    {
-      "title": "12 Harbor Freight Hercules Power Tools Under $100 That Should Be On Your Radar",
-      "link": "https://www.slashgear.com/2307814/best-harbor-freight-hercules-power-tools-under-100/",
-      "date": "Fri, 06 Nov 2026 21:30:00 +0000",
-      "description": "These under-$100 options from Harbor Freight's Hercules brand are an affordable way to add tons of functionality to your garage or home toolkit.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "Ford": 1
-      },
-      "hardwareCounts": {},
       "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 16.171912515432098
-    },
-    {
-      "title": "Will We Likely Ever Know How Many Shipwrecks Are Sitting On Earth's Ocean Floor?",
-      "link": "https://www.slashgear.com/2303983/how-many-shipwrecks-are-in-earths-oceans-why-likely-never-fully-know/",
-      "date": "Fri, 06 Nov 2026 20:45:00 +0000",
-      "description": "Today, you can visit and explore some shipwrecks at the bottom of the sea. Others have decayed beyond recognition and others remain unknown.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 3,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "AI": 1,
-        "EV": 1
-      },
-      "brandMatches": 4,
       "hardwareMatches": 2,
-      "score": 37.161495848765426
+      "score": 22.258649355709878
     },
     {
-      "title": "Sam's Club Is Selling A CyberPower Gaming PC With An RTX 5080 GPU – Here's What It Costs",
-      "link": "https://www.slashgear.com/2309755/sams-club-cyberpower-gaming-pc-rtx-5080-gpu-prie-how-much-cost/",
-      "date": "Fri, 06 Nov 2026 20:32:47 +0000",
-      "description": "If you're in the market for a gaming PC, Sam's Club has a pretty powerful option for a pretty powerful price, but it's probably cheaper than building one.",
+      "title": "Pixel Watch 5 Vs Fitbit Edge: Which Google Wearable Should You Buy?",
+      "link": "https://www.slashgear.com/2305227/pixel-watch-5-vs-fitbit-edge-google-wearable-comparison/",
+      "date": "Sun, 08 Nov 2026 02:45:00 +0000",
+      "description": "The Pixel Watch 5 and the Fitbit Edge both are both compelling offerings for your wrist, but they also have different specialties. Here are the pros and cons.",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "EA": 1,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "PC": 2,
-        "GPU": 1,
-        "gaming PC": 2,
-        "OS": 1
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 6,
-      "score": 39.158667916666666
-    },
-    {
-      "title": "Which US State Has The Best Power Grid Reliability? Hint: It's Not Texas",
-      "link": "https://www.slashgear.com/2303942/which-us-state-best-power-grid-not-texas/",
-      "date": "Fri, 06 Nov 2026 19:45:00 +0000",
-      "description": "Texas made headlines in 2021 when its power grid failed, as these grids provide residential homes with the electricity they need on a day to day basis.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {
+        "Google": 1,
+        "Fitbit": 2,
         "EA": 1,
         "X": 2
+      },
+      "hardwareCounts": {
+        "wearable": 1,
+        "OS": 1,
+        "Edge": 2
+      },
+      "brandMatches": 6,
+      "hardwareMatches": 4,
+      "score": 53.244760466820985
+    },
+    {
+      "title": "10 M6 MacBook Pro Alternatives (From Every Price Point)",
+      "link": "https://www.slashgear.com/2308809/m6-macbook-pro-alternatives/",
+      "date": "Sun, 08 Nov 2026 02:30:00 +0000",
+      "description": "Some of these laptops beat the M6 MacBook Pro at gaming, some at upgrades, some at screens, and one costs more than a used car. Pick your poison.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "laptop": 1,
+        "Mac": 2,
+        "screen": 1,
+        "OS": 1,
+        "EV": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 6,
+      "score": 34.24128824459876
+    },
+    {
+      "title": "What Does A Black Road Sign With A White Diamond On It Mean?",
+      "link": "https://www.slashgear.com/2305337/black-road-sign-white-diamond-meaning-explained/",
+      "date": "Sun, 08 Nov 2026 02:15:00 +0000",
+      "description": "Amongst the plethora of signs drivers need to keep track of is a black sign with a white diamond. You may not see it much, but it helps to know what it means.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 2
+      },
+      "hardwareCounts": {},
+      "brandMatches": 2,
+      "hardwareMatches": 0,
+      "score": 21.237816022376546
+    },
+    {
+      "title": "This Front-Engine Lambo Is Great Value (As Far As Vintage Italian V12 Sports Cars Go)",
+      "link": "https://www.slashgear.com/2305277/how-much-rare-lamborghini-jarama-worth-v12-engine-great-value/",
+      "date": "Sun, 08 Nov 2026 01:45:00 +0000",
+      "description": "One of Ferruccio's favorite models, this oddball Lambo is counted among the last attainable vintage European sports cars floating around the classic market.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 2
       },
       "hardwareCounts": {
         "AI": 1
       },
-      "brandMatches": 3,
+      "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 29.147606959876544
+      "score": 24.2308715779321
     },
     {
-      "title": "How The Chevy Laguna's Aero Nose Helped It Dominate NASCAR (Until It Was Banned)",
-      "link": "https://www.slashgear.com/2303790/chevy-laguna-s3-1975-aero-nose-nascar-ban-chevelle-yarborough/",
-      "date": "Fri, 06 Nov 2026 18:45:00 +0000",
-      "description": "Most people associate NASCAR with legends like the Superbird and Daytona, but this 70s Chevy was almost completely unstoppable before regulators stepped in.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "SoC": 1,
-        "OS": 3,
-        "EV": 2
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 6,
-      "score": 29.133718070987655
-    },
-    {
-      "title": "3 Leatherman Tools & Accessories With Deep Discounts In November 2026",
-      "link": "https://www.slashgear.com/2309407/leatherman-tools-accessories-deep-discounts-november-2026/",
-      "date": "Fri, 06 Nov 2026 18:19:07 +0000",
-      "description": "Right now, Leatherman has some tools and accessories that you can pick up for a pretty deep discount. Perhaps some stocking stuffers for your handy loved ones?",
+      "title": "5 Of The Highest-Rated Home Solar Power Generators On Amazon",
+      "link": "https://www.slashgear.com/2305055/highest-rated-home-solar-power-generators-on-amazon/",
+      "date": "Sun, 08 Nov 2026 01:15:00 +0000",
+      "description": "Preparing for storm outages or off-grid living? Explore five top-rated solar generators on Amazon that keep home essentials running cleanly and quietly.",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "EA": 2
+        "Amazon": 2,
+        "EA": 1,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "solar": 2
+      },
+      "brandMatches": 4,
+      "hardwareMatches": 2,
+      "score": 37.22392713348765
+    },
+    {
+      "title": "How To Convert A Diesel Engine To Run On Natural Gas",
+      "link": "https://www.slashgear.com/2305206/how-to-convert-diesel-engine-to-natural-gas/",
+      "date": "Sun, 08 Nov 2026 00:45:00 +0000",
+      "description": "Diesel used to be cheaper than gasoline, but that has changed a lot. Natural gas conversions sound very tempting, so how would you go about one?",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1
       },
       "hardwareCounts": {},
-      "brandMatches": 2,
+      "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 21.12772655478395
+      "score": 16.21698268904321
     },
     {
-      "title": "Ford's Frostwarden Bronco Is A Rescue Vehicle With Supercar-Level Horsepower",
-      "link": "https://www.slashgear.com/2307198/ford-frostwarden-bronco-rescue-vehicle-concept-1200-hp/",
-      "date": "Fri, 06 Nov 2026 17:45:00 +0000",
-      "description": "Ford showcased a new Frostwarden Bronco at SEMA, with an insane amount of power that makes us wonder what the future of the Bronco might look like.",
+      "title": "How The Dodge Viper V10 Compares To The Ram Magnum V10",
+      "link": "https://www.slashgear.com/2305168/dodge-viper-vs-ram-magnum-v10-comparison-specs-differences/",
+      "date": "Sun, 08 Nov 2026 00:15:00 +0000",
+      "description": "The Dodge Viper's engine is one of the most well-known V10s, but there was also Dodge's 10-cylinder Magnum engine. But how did they differ from each other?",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "Ford": 2
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "RAM": 1,
+        "OS": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 2,
+      "score": 22.210038244598767
+    },
+    {
+      "title": "5 Third-Party Tools That Work With DeWalt 20V Batteries",
+      "link": "https://www.slashgear.com/2305012/third-party-tools-compatible-with-dewalt-20v-batteries/",
+      "date": "Sat, 07 Nov 2026 23:45:00 +0000",
+      "description": "Do you have an extra pair of DeWalt 20V battery packs? Discover five budget-friendly third-party tools built to run seamlessly on DeWalt 20V power.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "battery": 1,
+        "AI": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 2,
+      "score": 27.203093800154324
+    },
+    {
+      "title": "5 Gaming Laptops That Outperform The PS5 Pro",
+      "link": "https://www.slashgear.com/2308819/gaming-laptops-outperform-playstation-5-pro/",
+      "date": "Sat, 07 Nov 2026 23:30:00 +0000",
+      "description": "The PS5 Pro, for as great as it is, will cost you an arm and a leg. Meanwhile, these gaming laptops, while not cheap, can provide more bang for your buck.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "ARM": 1,
+        "EA": 3
+      },
+      "hardwareCounts": {
+        "laptop": 2,
+        "OS": 1
+      },
+      "brandMatches": 4,
+      "hardwareMatches": 3,
+      "score": 40.19962157793209
+    },
+    {
+      "title": "7 4-Cylinder Cars With More Horsepower Than A Ford Mustang EcoBoost",
+      "link": "https://www.slashgear.com/2305101/four-cylinder-cars-with-more-horsepower-than-ford-mustang-ecoboost/",
+      "date": "Sat, 07 Nov 2026 23:15:00 +0000",
+      "description": "Despite the initial reception, the Mustang EcoBoost has proven itself as a worthy player. However, some four-cylinder cars take the lead in terms of power.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1,
+        "Ford": 1
       },
       "hardwareCounts": {
         "OS": 2,
@@ -1706,43 +1698,80 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 3,
-      "score": 30.119829178240742
+      "score": 30.196149355709878
     },
     {
-      "title": "6 Practical USB-C Power Tools That Are Worth Buying From Lowe's",
-      "link": "https://www.slashgear.com/2307617/practical-usb-c-power-tools-lowes/",
-      "date": "Fri, 06 Nov 2026 17:30:00 +0000",
-      "description": "Tethering yourself to an electrical outlet or hauling around a heavy external battery isn't always worth it. USB-C power is a perfect middle ground.",
+      "title": "Is Google Nest More Secure Than Ring Video Doorbells?",
+      "link": "https://www.slashgear.com/2305048/is-google-nest-more-secure-ring-video-doorbell/",
+      "date": "Sat, 07 Nov 2026 22:45:00 +0000",
+      "description": "Ring and Google Nest are two of the biggest names in video doorbells, but a closer look at how they protect your footage reveals some important differences.",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "EA": 1,
+        "Google": 2,
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "doorbell": 2,
+        "OS": 1,
+        "EV": 1
+      },
+      "brandMatches": 3,
+      "hardwareMatches": 4,
+      "score": 38.18920491126543
+    },
+    {
+      "title": "How Far Does A 5G Cell Phone Tower Reach? It Depends",
+      "link": "https://www.slashgear.com/2304973/how-far-do-5g-cell-towers-reach-depends-reason/",
+      "date": "Sat, 07 Nov 2026 22:15:00 +0000",
+      "description": "Wondering how close you need to be to a 5G antenna? Explore how different spectrum bands and everyday obstacles determine your phone's real coverage.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 2,
         "X": 1
       },
       "hardwareCounts": {
-        "USB-C": 2,
-        "battery": 1
+        "5G": 2,
+        "antenna": 1,
+        "OS": 1,
+        "EV": 1
       },
-      "brandMatches": 2,
-      "hardwareMatches": 3,
-      "score": 30.11635695601852
+      "brandMatches": 3,
+      "hardwareMatches": 5,
+      "score": 41.182260466820985
     },
     {
-      "title": "Tractor Supply Is Selling A Mini-Excavator With A 306CC Engine – Here's What It Costs",
-      "link": "https://www.slashgear.com/2303576/tractor-supply-mini-excavator-price-details-306cc-engine/",
-      "date": "Fri, 06 Nov 2026 16:45:00 +0000",
-      "description": "Need compact digging power? Discover what the YardMax 306cc hydraulic mini-excavator at Tractor Supply costs, its key specs, and what owners think.",
+      "title": "Not Toyota, Not Honda: These Are The Fastest-Growing Hybrid Car Brands In 2026",
+      "link": "https://www.slashgear.com/2307638/fastest-growing-hybrid-car-brands-2026-not-toyota-honda/",
+      "date": "Sat, 07 Nov 2026 21:45:00 +0000",
+      "description": "While large-scale Japanese automakers like Honda and Toyota have robust hybrid vehicle sales in 2026, neither have the fastest growing hybrid segment.",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "X": 3
+        "GM": 1,
+        "Toyota": 2
       },
-      "hardwareCounts": {
-        "OS": 2
-      },
+      "hardwareCounts": {},
       "brandMatches": 3,
+      "hardwareMatches": 0,
+      "score": 26.175316022376546
+    },
+    {
+      "title": "Massimo's Viral Mini Truck Is Selling Out, But There Are Other Options",
+      "link": "https://www.slashgear.com/2305042/massimo-mini-truck-jeep-alternatives/",
+      "date": "Sat, 07 Nov 2026 21:15:00 +0000",
+      "description": "This mini truck is actually an off-roading go-kart. Though it sold out rapidly on the Massimo website, there are some similar alternatives available.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "AI": 1,
+        "API": 1
+      },
+      "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 32.10594028935185
+      "score": 17.1683715779321
     },
     {
       "title": "Alpine Linux and OpenSSH patch flaw that’s as bad as it can get",
@@ -1760,7 +1789,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 22.00680834490741
+      "score": 21.673406300154323
     },
     {
       "title": "Android is getting my favorite iOS tracking feature – what to expect",
@@ -1780,7 +1809,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 3,
-      "score": 29.920581493055558
+      "score": 29.58717944830247
     },
     {
       "title": "Thinking Machines’ new model takes the lead in western open-weight AI",
@@ -1798,7 +1827,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 21.91139167824074
+      "score": 21.577989633487654
     },
     {
       "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
@@ -1819,7 +1848,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 5,
-      "score": 30.900596925154325
+      "score": 30.567194876543212
     },
     {
       "title": "92% of HR say staff can train for AI jobs – but half of companies still hire outside",
@@ -1834,7 +1863,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 16.60033457947531
+      "score": 16.2669325308642
     },
     {
       "title": "6 default Pixel 11 settings I changed that made a big difference – and why",
@@ -1849,7 +1878,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 15.594196462191357
+      "score": 15.260794413580248
     },
     {
       "title": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
@@ -1866,7 +1895,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 18.589968067129632
+      "score": 18.25656601851852
     },
     {
       "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
@@ -1883,7 +1912,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 19.58686235725309
+      "score": 19.253460308641976
     },
     {
       "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
@@ -1901,7 +1930,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 5,
-      "score": 25.56423118441358
+      "score": 25.230829135802473
     },
     {
       "title": "Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect",
@@ -1919,7 +1948,7 @@
       },
       "brandMatches": 5,
       "hardwareMatches": 1,
-      "score": 38.37607146219136
+      "score": 38.04266941358025
     },
     {
       "title": "Is Chrome’s settings menu getting a search bar? What we know",
@@ -1936,7 +1965,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 18.282815289351852
+      "score": 17.94941324074074
     },
     {
       "title": "Researchers asked people to use AI chatbots for election info – results were mixed",
@@ -1955,7 +1984,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 26.259790597993828
+      "score": 25.926388549382715
     },
     {
       "title": "Want an AI job? Deployment engineers are earning executive-level pay – up to $1.45M a year",
@@ -1974,7 +2003,7 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 2,
-      "score": 31.25710155478395
+      "score": 30.923699506172838
     },
     {
       "title": "Safari finally gets 3 popular browser features – and I can’t wait to try them",
@@ -1993,7 +2022,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 3,
-      "score": 24.24612547453704
+      "score": 23.91272342592593
     },
     {
       "title": "Can Netflix’s new AI tool stop your TV-streaming doomscrolling? How to try it",
@@ -2012,7 +2041,103 @@
       },
       "brandMatches": 3,
       "hardwareMatches": 1,
-      "score": 28.243926400462964
+      "score": 27.910524351851855
+    },
+    {
+      "title": "Anthropic reportedly must face claims its Claude Max ads misled users",
+      "link": "https://thenextweb.com/news/anthropic-claude-max-lawsuit-ruling-usage-claims",
+      "date": "Sat, 07 Nov 2026 12:15:11 +0000",
+      "description": "A US judge has ruled that Anthropic must face key claims that it misled customers about how much use they get from its Claude Max plans. Magistrate Judge Alex Tse dismissed several other claims on Friday, Courthouse News reported. The proposed class action, Kahn v. Anthropic, is in the federal court for northern California. TNW has […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "Anthropic": 3,
+        "X": 4
+      },
+      "hardwareCounts": {
+        "AI": 3,
+        "OS": 1,
+        "EV": 1
+      },
+      "brandMatches": 7,
+      "hardwareMatches": 5,
+      "score": 60.74341401234568
+    },
+    {
+      "title": "HH Princess Sophia Wolkonsky brings royalty, global business leaders and esports figures together in Vienna for Castillia 2026",
+      "link": "https://thenextweb.com/news/castillia-heritage-gala-vienna-2026-sophia-wolkonsky",
+      "date": "Sat, 07 Nov 2026 11:50:20 +0000",
+      "description": "VIENNA, Austria, HH Princess Sophia Wolkonsky, founder and CEO of Castillia, brought together members of royal families, international business leaders, technology executives and esports figures in Vienna from October 30 to November 1 for Castillia’s Heritage Gala 2026, an invitation-only celebration of cultural heritage, innovation and international connections. Under her leadership, the three-day gathering connected guests from […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "EA": 3,
+        "X": 2,
+        "Figure": 2
+      },
+      "hardwareCounts": {},
+      "brandMatches": 7,
+      "hardwareMatches": 0,
+      "score": 45.73766169753087
+    },
+    {
+      "title": "US charges three men over $129m scheme that faked CEOs’ voices with AI",
+      "link": "https://thenextweb.com/news/us-charges-three-ai-ceo-impersonation-129m-fraud",
+      "date": "Sat, 07 Nov 2026 11:01:01 +0000",
+      "description": "US prosecutors have charged three men with using AI to copy the voices and faces of company bosses and lawyers, tricking staff into wiring about $129m. The indictment was unsealed on Thursday, the US Attorney’s Office in Manhattan said. The men are Jacob Soall, 41, Sharon Hazan, 54, and Guy Sheetrit, 42. Spanish police arrested Soall […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "EA": 1,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "AI": 3,
+        "OS": 3
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 6,
+      "score": 38.72624580246914
+    },
+    {
+      "title": "House chairs ask Nvidia’s Jensen Huang to explain reported spy link",
+      "link": "https://thenextweb.com/news/house-chairs-jensen-huang-briefing-megaspeed",
+      "date": "Sat, 07 Nov 2026 10:05:00 +0000",
+      "description": "Three Republican House committee chairs have asked Nvidia chief executive Jensen Huang to attend a closed-door briefing on 18 November. They want to ask about his contacts with Alice Huang, a former executive at Megaspeed, and how Nvidia guards against spies.John Moolenaar, Brian Mast, and Rick Crawford sent the letter on Wednesday, according to a China […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "Nvidia": 3,
+        "Ford": 1,
+        "X": 4
+      },
+      "hardwareCounts": {
+        "AI": 4,
+        "OS": 1
+      },
+      "brandMatches": 8,
+      "hardwareMatches": 5,
+      "score": 65.71327898148148
+    },
+    {
+      "title": "AI teddy for three-year-olds gave unprompted self-harm reply, BBC finds",
+      "link": "https://thenextweb.com/news/ai-teddy-for-three-year-olds-gave-unprompted-self-harm-reply-bbc-finds",
+      "date": "Sat, 07 Nov 2026 09:52:56 +0000",
+      "description": "An AI plush toy marketed for children as young as three gave a self-harm crisis reply to a question that had nothing to do with self-harm, a BBC investigation found. The BBC published its findings on Thursday. The toy, called Doubao, is sold online in the UK as My Baby Bunny for £75. A BBC Wales reporter […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "ARM": 3,
+        "Nothing": 1,
+        "EA": 1,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "AI": 2
+      },
+      "brandMatches": 6,
+      "hardwareMatches": 2,
+      "score": 46.71048577160494
     },
     {
       "title": "Google takes over the Wyoming data centre site Crusoe had planned",
@@ -2032,7 +2157,7 @@
       },
       "brandMatches": 6,
       "hardwareMatches": 3,
-      "score": 49.85807763503087
+      "score": 49.52467558256173
     },
     {
       "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
@@ -2057,7 +2182,7 @@
       },
       "brandMatches": 13,
       "hardwareMatches": 10,
-      "score": 105.83664244984568
+      "score": 105.50324039737654
     },
     {
       "title": "Musk says government work will be under 10% of SpaceX revenue",
@@ -2079,7 +2204,7 @@
       },
       "brandMatches": 14,
       "hardwareMatches": 7,
-      "score": 101.8302921412037
+      "score": 101.49689008873457
     },
     {
       "title": "Apollo-backed Brightspeed seeks up to $3B from creditors for fibre",
@@ -2096,7 +2221,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 18.81823195601852
+      "score": 18.484829903549382
     },
     {
       "title": "TSMC is weighing a move into AI memory chips at Nvidia’s request",
@@ -2121,105 +2246,7 @@
       },
       "brandMatches": 11,
       "hardwareMatches": 11,
-      "score": 98.80998735725308
-    },
-    {
-      "title": "Amazon’s Alexa for Shopping agent will now take your orders by text",
-      "link": "https://thenextweb.com/news/amazon-alexa-for-shopping-text-message-agent",
-      "date": "Fri, 06 Nov 2026 16:48:29 +0000",
-      "description": "Amazon is rolling out texting for Alexa for Shopping, its AI shopping agent, starting with invited US customers. It can find products, place orders and track prices by text. Sponsored products can show up in its replies, free to advertisers for now. Amazon is letting shoppers text its AI shopping agent, Alexa for Shopping, which […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "Amazon": 3,
-        "X": 8
-      },
-      "hardwareCounts": {
-        "AI": 2
-      },
-      "brandMatches": 11,
-      "hardwareMatches": 2,
-      "score": 71.80674661265432
-    },
-    {
-      "title": "Fox completes $22bn Roku acquisition and puts it in a new digital unit",
-      "link": "https://thenextweb.com/news/fox-acquires-roku-22-billion-streaming",
-      "date": "Mon, 15 Jun 2026 11:52:42 +0000",
-      "description": "Fox Corporation has completed its acquisition of Roku, the maker of streaming sticks and smart TV software, in a cash-and-stock deal worth about $22bn. The deal closed on Friday, and Roku’s shares stopped trading on Nasdaq the same day. Fox agreed to buy Roku in June and had expected to close in the first half of 2027. […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "EA": 3,
-        "X": 5
-      },
-      "hardwareCounts": {
-        "OS": 2,
-        "software": 1
-      },
-      "brandMatches": 8,
-      "hardwareMatches": 3,
-      "score": 50
-    },
-    {
-      "title": "Tesla to wind down Cybertruck production in mid-2027 to build Cybercabs",
-      "link": "https://thenextweb.com/news/tesla-cybertruck-production-wind-down-2027",
-      "date": "Fri, 06 Nov 2026 15:52:23 +0000",
-      "description": "Tesla will stop making most Cybertrucks at its Texas factory around the middle of next year, chief executive Elon Musk said on Friday. The space will instead be used to build more Cybercabs, the company’s two-seat robotaxis. Musk announced the plan in a post on X, but he did not say whether production would end […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "EA": 3,
-        "Tesla": 2,
-        "X": 6
-      },
-      "hardwareCounts": {
-        "AI": 1,
-        "OS": 2
-      },
-      "brandMatches": 11,
-      "hardwareMatches": 3,
-      "score": 74.7937605015432
-    },
-    {
-      "title": "Airbnb can invest in Brian Chesky’s AI lab, its quarterly filing shows",
-      "link": "https://thenextweb.com/news/airbnb-invest-chesky-ai-lab-filing-q3-2026",
-      "date": "Fri, 06 Nov 2026 15:31:27 +0000",
-      "description": "Brian Chesky’s AI lab paid Airbnb $7.1M for some of its intellectual property and to cover certain expenses, Airbnb disclosed in its quarterly filing on Thursday. Chesky, Airbnb’s chief executive, founded the lab and controls it. Under the deal, signed this month, Airbnb can choose to join the lab’s future funding rounds. It also gets […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "Intel": 1,
-        "EA": 1,
-        "X": 3
-      },
-      "hardwareCounts": {
-        "AI": 9,
-        "OS": 2
-      },
-      "brandMatches": 5,
-      "hardwareMatches": 11,
-      "score": 68.78891482253087
-    },
-    {
-      "title": "Paris start-up Physicl raises $10M to make training data for physical AI",
-      "link": "https://thenextweb.com/news/physicl-10m-seed-physical-ai-training-data",
-      "date": "Fri, 06 Nov 2026 15:21:35 +0000",
-      "description": "Physicl, a Paris-based start-up that creates training data for AI systems that work in the physical world, has raised $10M in seed funding. Inovia Capital led the round, announced on Friday, with U.S. Venture Partners also taking part. The company focuses on what researchers call edge cases. These are the unusual situations, such as odd lighting or […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "EA": 2,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "AI": 6,
-        "training": 2,
-        "API": 1,
-        "Edge": 1
-      },
-      "brandMatches": 3,
-      "hardwareMatches": 10,
-      "score": 55.78663087191358
+      "score": 98.47658530478395
     }
   ]
 }
