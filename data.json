@@ -1,72 +1,72 @@
 {
-  "lastUpdated": "2026-11-09T07:08:51.170Z",
+  "lastUpdated": "2026-11-10T06:51:52.693Z",
   "summary": {
     "topBrands": [
       [
         "EA",
-        131
+        118
       ],
       [
         "X",
-        66
-      ],
-      [
-        "Apple",
-        12
-      ],
-      [
-        "Nvidia",
-        7
-      ],
-      [
-        "Intel",
-        6
+        68
       ],
       [
         "Anthropic",
-        6
+        14
       ],
       [
-        "ARM",
+        "Nvidia",
+        13
+      ],
+      [
+        "Apple",
+        10
+      ],
+      [
+        "Google",
+        9
+      ],
+      [
+        "ByteDance",
         5
       ],
       [
-        "Samsung",
+        "Baidu",
         5
       ]
     ],
     "topHardware": [
       [
         "AI",
-        75
+        84
       ],
       [
         "OS",
-        32
-      ],
-      [
-        "app",
-        28
+        49
       ],
       [
         "EV",
+        30
+      ],
+      [
+        "app",
         26
       ],
       [
-        "Mac",
-        9
+        "Android",
+        7
       ],
       [
-        "camera",
-        8
+        "iOS",
+        4
       ],
       [
-        "speaker",
-        5
+        "RAM",
+        3
       ],
       [
-        "screen",
-        5
+        "Matter",
+        3
       ]
     ],
     "totalArticles": 115,
@@ -74,112 +74,292 @@
   },
   "top5": [
     {
-      "title": "CoreWeave asks Texas governor-elect to let permitted data centres finish",
-      "link": "https://thenextweb.com/news/coreweave-texas-hinojosa-data-centre-letter",
-      "date": "Sun, 08 Nov 2026 15:20:35 +0000",
-      "description": "I cloud company CoreWeave has written to Texas Governor-elect Gina Hinojosa, offering to work with her team on data centre rules. The letter from chief executive Michael Intrator was sent on Saturday, Bloomberg reported. Intrator offered to work with her transition team on finishing projects that already have permits. He also offered help setting clear, lasting […] This story continues at The Next Web",
+      "title": "Baidu says its AI research agent sped up its next ERNIE model",
+      "link": "https://thenextweb.com/news/baidu-ernie-evolve-automated-ai-research",
+      "date": "Mon, 09 Nov 2026 20:06:23 +0000",
+      "description": "Baidu unveiled ERNIE Evolve, an AI system that runs its own experiments to improve AI code. Baidu says it sped up its in-development ERNIE-5.5-Flash model by 33.7% on GPUs and more than sixfold on Kunlunxin chips. All figures are Baidu’s own. Baidu has built an AI system that runs its own experiments to improve AI […] This story continues at The Next Web",
       "source": "The Next Web",
       "sourceWeight": 1,
       "brandCounts": {
-        "EA": 6,
-        "X": 4
-      },
-      "hardwareCounts": {
-        "cloud": 1,
-        "OS": 1
-      },
-      "brandMatches": 10,
-      "hardwareMatches": 2,
-      "score": 66.78049317515432
-    },
-    {
-      "title": "Qalo SL-1 vs. Garmin Cirqa: How these minimalist wearables compare",
-      "link": "https://www.engadget.com/2309634/qalo-sl-1-vs-garmin-cirqa-how-wearables-compare/",
-      "date": "Sun, 08 Nov 2026 22:15:00 +0000",
-      "description": "The Qalo SL-1 and Garmin Cirqa were released in 2026, and both cost about $200. A comparison of these screenless wearables reveals some key differences.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "ARM": 2,
-        "Garmin": 2,
-        "EA": 4
-      },
-      "hardwareCounts": {
-        "screen": 1,
-        "wearable": 2,
-        "OS": 1,
-        "EV": 1
-      },
-      "brandMatches": 8,
-      "hardwareMatches": 5,
-      "score": 66.07642296682099
-    },
-    {
-      "title": "Anthropic reportedly must face claims its Claude Max ads misled users",
-      "link": "https://thenextweb.com/news/anthropic-claude-max-lawsuit-ruling-usage-claims",
-      "date": "Sat, 07 Nov 2026 12:15:11 +0000",
-      "description": "A US judge has ruled that Anthropic must face key claims that it misled customers about how much use they get from its Claude Max plans. Magistrate Judge Alex Tse dismissed several other claims on Friday, Courthouse News reported. The proposed class action, Kahn v. Anthropic, is in the federal court for northern California. TNW has […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "Anthropic": 3,
-        "X": 4
-      },
-      "hardwareCounts": {
-        "AI": 3,
-        "OS": 1,
-        "EV": 1
-      },
-      "brandMatches": 7,
-      "hardwareMatches": 5,
-      "score": 60.40424317515432
-    },
-    {
-      "title": "Tencent AI chief warns models will soon pose biology risks, SCMP reports",
-      "link": "https://thenextweb.com/news/tencent-yao-shunyu-ai-biology-risk-hy4",
-      "date": "Sun, 08 Nov 2026 15:38:11 +0000",
-      "description": "Tencent’s chief AI scientist has warned that AI models will soon be able to cause harm in biology, as they already can in cybersecurity. Yao Shunyu spoke at a science event in Hong Kong on Saturday, the South China Morning Post reported. “The cyber abilities of [AI] models and soon [the] bio ability of models […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "Tencent": 2,
-        "ARM": 1,
+        "Baidu": 5,
         "EA": 1,
+        "X": 6,
+        "Figure": 1
+      },
+      "hardwareCounts": {
+        "GPU": 1,
+        "chip": 1,
+        "AI": 10,
+        "EV": 2
+      },
+      "brandMatches": 13,
+      "hardwareMatches": 14,
+      "score": 117.85057989197531
+    },
+    {
+      "title": "ByteDance’s Seedream 5.5 can edit one image 100 times without breaking it",
+      "link": "https://thenextweb.com/news/bytedance-seedream-5-5-image-editing-100-rounds",
+      "date": "Mon, 09 Nov 2026 21:44:29 +0000",
+      "description": "ByteDance released Seedream 5.5, an AI image model it says keeps unchanged parts of an image intact over 100 rounds of edits and creates transparent-background assets. It is rolling out in ByteDance’s Chinese apps. The performance claims are ByteDance’s own. ByteDance has released Seedream 5.5, a new AI image model, its Seed research team said […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "ByteDance": 5,
+        "EA": 9,
         "X": 1
       },
       "hardwareCounts": {
         "AI": 4,
-        "AI model": 1,
-        "OS": 2,
-        "EV": 1
+        "app": 1
       },
-      "brandMatches": 5,
-      "hardwareMatches": 8,
-      "score": 59.784567249228395
+      "brandMatches": 15,
+      "hardwareMatches": 5,
+      "score": 100.87328822530864
     },
     {
-      "title": "SpaceXAI Grok Bot availability just keeps growing - here's which plans offer it",
-      "link": "https://www.engadget.com/2309308/spacexai-grok-bot-availability-plans/",
-      "date": "Sun, 08 Nov 2026 23:45:00 +0000",
-      "description": "SpaceXAI 's Grok Bot can handle multi-step work on a cloud computer, but you'll need to figure out the jumble of subscription plans first.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
+      "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
+      "link": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
+      "date": "Mon, 09 Nov 2026 20:34:10 +0000",
+      "description": "IBM plans to add Anthropic’s Claude Mythos to Concert Protect so customers can scan their own code for unknown flaws, test which are exploitable and get fixes for developers to approve. It is aiming for early 2027. Mythos itself remains limited to vetted organisations. IBM plans to build Anthropic’s Claude Mythos into its Concert Protect […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
       "brandCounts": {
-        "xAI": 2,
-        "X": 2,
-        "SpaceX": 2,
-        "Figure": 1
+        "EA": 1,
+        "Anthropic": 3,
+        "AWS": 1,
+        "IBM": 3,
+        "X": 3
+      },
+      "hardwareCounts": {
+        "AI": 2,
+        "OS": 4,
+        "app": 1,
+        "EV": 1
+      },
+      "brandMatches": 11,
+      "hardwareMatches": 8,
+      "score": 89.8570112191358
+    },
+    {
+      "title": "Cisco adds Anthropic’s Claude Mythos to AI Defense for red teaming",
+      "link": "https://thenextweb.com/news/cisco-ai-defense-claude-mythos-red-teaming",
+      "date": "Mon, 09 Nov 2026 20:56:14 +0000",
+      "description": "Cisco will add Anthropic’s Claude Mythos to AI Defense to plan attacks on customers’ own AI apps and agents, a practice called red teaming. Customers get no open prompt access, every test is logged to a named person, and it comes first to select enterprises. Cisco will add Anthropic’s Claude Mythos to AI Defense, the […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "EA": 2,
+        "Anthropic": 3,
+        "Cisco": 3,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "AI": 4,
+        "OS": 3,
+        "app": 1,
+        "EV": 1
+      },
+      "brandMatches": 9,
+      "hardwareMatches": 9,
+      "score": 82.86211924382715
+    },
+    {
+      "title": "Apple’s CEO presses Federighi to speed up AI, Bloomberg reports",
+      "link": "https://thenextweb.com/news/ternus-federighi-agentic-siri-apple-ai-bloomberg",
+      "date": "Mon, 09 Nov 2026 18:43:58 +0000",
+      "description": "Apple chief executive John Ternus has pushed software chief Craig Federighi to speed up Apple’s AI plans, Mark Gurman reported for Bloomberg on Sunday. Ternus wants Apple to move beyond improving Siri. According to the report, he held a closed-door meeting with Federighi in recent weeks. Ternus is frustrated by what he sees as Apple’s […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "Apple": 5,
+        "X": 2
       },
       "hardwareCounts": {
         "AI": 3,
-        "cloud": 1
+        "OS": 1,
+        "software": 1,
+        "app": 5
       },
       "brandMatches": 7,
-      "hardwareMatches": 4,
-      "score": 58.09725630401235
+      "hardwareMatches": 10,
+      "score": 75.83150195987655
     }
   ],
   "articles": [
+    {
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "date": "Mon, 09 Nov 2026 21:55:35 +0000",
+      "description": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "OS": 1,
+        "EV": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 2,
+      "score": 17.17585770447531
+    },
+    {
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "date": "Mon, 09 Nov 2026 21:13:39 +0000",
+      "description": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "AWS": 1
+      },
+      "hardwareCounts": {
+        "OS": 2
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 2,
+      "score": 22.166150914351853
+    },
+    {
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "date": "Mon, 09 Nov 2026 20:49:09 +0000",
+      "description": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1,
+        "OpenAI": 1
+      },
+      "hardwareCounts": {
+        "RAM": 1,
+        "memory": 1,
+        "AI": 2
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 4,
+      "score": 33.16047961419753
+    },
+    {
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "date": "Mon, 09 Nov 2026 19:41:34 +0000",
+      "description": "\"*sshole\" poses a serious threat to Internet security.",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1,
+        "X": 2
+      },
+      "hardwareCounts": {
+        "OS": 1,
+        "Linux": 1,
+        "EV": 1
+      },
+      "brandMatches": 3,
+      "hardwareMatches": 3,
+      "score": 35.14483532407407
+    },
+    {
+      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+      "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+      "date": "Mon, 09 Nov 2026 19:08:37 +0000",
+      "description": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1
+      },
+      "hardwareCounts": {},
+      "brandMatches": 1,
+      "hardwareMatches": 0,
+      "score": 16.13720800925926
+    },
+    {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "date": "Mon, 09 Nov 2026 17:24:26 +0000",
+      "description": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1,
+        "GitHub": 1,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "AI": 1,
+        "OS": 1,
+        "API": 1
+      },
+      "brandMatches": 3,
+      "hardwareMatches": 3,
+      "score": 35.113091496913576
+    },
+    {
+      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+      "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+      "date": "Mon, 09 Nov 2026 15:39:21 +0000",
+      "description": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "NIO": 1,
+        "X": 1,
+        "SpaceX": 1
+      },
+      "hardwareCounts": {},
+      "brandMatches": 3,
+      "hardwareMatches": 0,
+      "score": 26.088766651234568
+    },
+    {
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "date": "Mon, 09 Nov 2026 15:23:20 +0000",
+      "description": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "Nvidia": 2,
+        "Intel": 1
+      },
+      "hardwareCounts": {
+        "AI": 2
+      },
+      "brandMatches": 3,
+      "hardwareMatches": 2,
+      "score": 32.085059089506174
+    },
+    {
+      "title": "F1 in Brazil: You’ve got to keep your tires alive",
+      "link": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
+      "date": "Mon, 09 Nov 2026 15:16:31 +0000",
+      "description": "A topsy-turvy grid and intermittent rain resulted in a very entertaining race.",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "AI": 2
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 2,
+      "score": 17.083481157407405
+    },
+    {
+      "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+      "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+      "date": "Mon, 09 Nov 2026 12:00:05 +0000",
+      "description": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+      "source": "Ars Technica",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "EV": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 14.038010478395062
+    },
     {
       "title": "Physicists listened to electrical noise to crack a superconductor mystery",
       "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
@@ -193,7 +373,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 14.037653699845679
+      "score": 13.708249672067902
     },
     {
       "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
@@ -213,7 +393,7 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 3,
-      "score": 39.704412959104936
+      "score": 39.37500893132716
     },
     {
       "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
@@ -232,13 +412,13 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 2,
-      "score": 26.68697082947531
+      "score": 26.357566801697534
     },
     {
       "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
       "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
       "date": "Fri, 06 Nov 2026 23:09:45 +0000",
-      "description": "It's the exact path, not the apparent severity that matters most, doctors say.",
+      "description": "It's the exact path, not the apparent severity, that matters most, doctors say.",
       "source": "Ars Technica",
       "sourceWeight": 1.3,
       "brandCounts": {
@@ -253,7 +433,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 5,
-      "score": 30.522429934413584
+      "score": 30.193025906635803
     },
     {
       "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
@@ -270,185 +450,32 @@
       },
       "brandMatches": 4,
       "hardwareMatches": 1,
-      "score": 33.51591758873457
+      "score": 33.18651356095679
     },
     {
-      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
-      "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-      "date": "Fri, 06 Nov 2026 22:08:47 +0000",
-      "description": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
-      "source": "Ars Technica",
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "date": "Tue, 10 Nov 2026 05:18:43 +0000",
+      "description": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.",
+      "source": "TechCrunch",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "Steam": 1,
-        "EA": 3
+        "EA": 3,
+        "X": 2
       },
       "hardwareCounts": {
-        "OS": 1
-      },
-      "brandMatches": 4,
-      "hardwareMatches": 1,
-      "score": 33.50831728009259
-    },
-    {
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "date": "Fri, 06 Nov 2026 20:56:41 +0000",
-      "description": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "source": "Ars Technica",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "AI": 3
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 3,
-      "score": 19.49162746527778
-    },
-    {
-      "title": "Earth's churning mantle may have created the Great Unconformity",
-      "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
-      "date": "Fri, 06 Nov 2026 20:24:20 +0000",
-      "description": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
-      "source": "Ars Technica",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 4,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "AI": 1,
-        "OS": 1
+        "AI": 3,
+        "OS": 2
       },
       "brandMatches": 5,
-      "hardwareMatches": 2,
-      "score": 41.484139039351845
+      "hardwareMatches": 5,
+      "score": 51.27843485725308
     },
     {
-      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-      "date": "Fri, 06 Nov 2026 20:05:30 +0000",
-      "description": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
-      "source": "Ars Technica",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "Nvidia": 1,
-        "X": 2
-      },
-      "hardwareCounts": {},
-      "brandMatches": 3,
-      "hardwareMatches": 0,
-      "score": 25.479779471450616
-    },
-    {
-      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-      "link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-      "date": "Fri, 06 Nov 2026 19:50:18 +0000",
-      "description": "Developer: “I can’t be part of the Fox world.”",
-      "source": "Ars Technica",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 1,
-        "X": 2
-      },
-      "hardwareCounts": {
-        "screen": 1,
-        "EV": 2
-      },
-      "brandMatches": 3,
-      "hardwareMatches": 3,
-      "score": 34.476260952932094
-    },
-    {
-      "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-      "link": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
-      "date": "Fri, 06 Nov 2026 19:12:28 +0000",
-      "description": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
-      "source": "Ars Technica",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "display": 1
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 1,
-      "score": 13.467503236882717
-    },
-    {
-      "title": "The folks behind John Wick are back with Karōshi trailer",
-      "link": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
-      "date": "Fri, 06 Nov 2026 18:30:19 +0000",
-      "description": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
-      "source": "Ars Technica",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "AI": 1,
-        "EV": 1
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 2,
-      "score": 16.457746292438273
-    },
-    {
-      "title": "You know the launch market is tough when satellite companies start building rockets",
-      "link": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-      "date": "Fri, 06 Nov 2026 18:20:47 +0000",
-      "description": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
-      "source": "Ars Technica",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "X": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 15.45553949845679
-    },
-    {
-      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-      "date": "Fri, 06 Nov 2026 17:43:02 +0000",
-      "description": "Meta won't force Facebook page owners to allow AI training on linked content.",
-      "source": "Ars Technica",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "Meta": 3,
-        "Facebook": 1,
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "AI": 2,
-        "training": 1,
-        "update": 1
-      },
-      "brandMatches": 5,
-      "hardwareMatches": 4,
-      "score": 47.44680107253086
-    },
-    {
-      "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
-      "link": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
-      "date": "Fri, 06 Nov 2026 17:06:32 +0000",
-      "description": "Next week, experts will determine if the US has lost its measles elimination status.",
-      "source": "Ars Technica",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 5,
-        "X": 2
-      },
-      "hardwareCounts": {
-        "OS": 1
-      },
-      "brandMatches": 7,
-      "hardwareMatches": 1,
-      "score": 48.43835199845679
-    },
-    {
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "date": "Mon, 09 Nov 2026 05:26:29 +0000",
-      "description": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "date": "Tue, 10 Nov 2026 04:34:15 +0000",
+      "description": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
       "source": "TechCrunch",
       "sourceWeight": 1.3,
       "brandCounts": {
@@ -457,690 +484,637 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 16.27630338734568
+      "score": 16.268141647376545
     },
     {
-      "title": "Apps to distract you from the endless cycle of doomscrolling",
-      "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-      "date": "Sun, 08 Nov 2026 22:00:00 +0000",
-      "description": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "date": "Tue, 10 Nov 2026 01:27:12 +0000",
+      "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
       "source": "TechCrunch",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "app": 2
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 2,
-      "score": 22.17295076388889
-    },
-    {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "date": "Sun, 08 Nov 2026 21:00:11 +0000",
-      "description": "In a memo to the company, Huang admitted that he had an affair.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "Nvidia": 1
-      },
-      "hardwareCounts": {
-        "AI": 1,
-        "OS": 1
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 2,
-      "score": 22.159104313271605
-    },
-    {
-      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-      "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "date": "Sun, 08 Nov 2026 21:00:00 +0000",
-      "description": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 1,
-        "X": 1,
-        "Snap": 2
-      },
-      "hardwareCounts": {
-        "EV": 1
-      },
-      "brandMatches": 4,
-      "hardwareMatches": 1,
-      "score": 34.15906187499999
-    },
-    {
-      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-      "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-      "date": "Sun, 08 Nov 2026 20:30:00 +0000",
-      "description": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 3
-      },
-      "hardwareCounts": {},
-      "brandMatches": 3,
-      "hardwareMatches": 0,
-      "score": 26.152117430555556
-    },
-    {
-      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-      "date": "Sun, 08 Nov 2026 19:51:30 +0000",
-      "description": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "X": 1,
-        "SpaceX": 1
+        "Anthropic": 1,
+        "X": 1
       },
       "hardwareCounts": {
         "AI": 1
       },
       "brandMatches": 2,
       "hardwareMatches": 1,
-      "score": 24.14320539351852
+      "score": 24.224843036265433
     },
     {
-      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-      "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-      "date": "Sun, 08 Nov 2026 18:00:04 +0000",
-      "description": "SNL seems to have its knives out for tech executives.",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "date": "Mon, 09 Nov 2026 23:28:37 +0000",
+      "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
       "source": "TechCrunch",
       "sourceWeight": 1.3,
       "brandCounts": {
+        "EA": 2,
         "X": 1
-      },
-      "hardwareCounts": {
-        "EV": 1
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 1,
-      "score": 19.117410640432098
-    },
-    {
-      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-      "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "date": "Sun, 08 Nov 2026 17:30:00 +0000",
-      "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 1
       },
       "hardwareCounts": {},
-      "brandMatches": 1,
+      "brandMatches": 3,
       "hardwareMatches": 0,
-      "score": 16.11045076388889
+      "score": 26.197393186728394
     },
     {
-      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-      "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-      "date": "Sun, 08 Nov 2026 17:02:00 +0000",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "date": "Mon, 09 Nov 2026 23:03:46 +0000",
+      "description": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
       "source": "TechCrunch",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "X": 1
+        "X": 2
       },
       "hardwareCounts": {
-        "AI": 1,
-        "EV": 1
+        "OS": 1,
+        "app": 2
       },
-      "brandMatches": 1,
-      "hardwareMatches": 2,
-      "score": 22.10396928240741
+      "brandMatches": 2,
+      "hardwareMatches": 3,
+      "score": 30.19164087191358
     },
     {
-      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
-      "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
-      "date": "Sun, 08 Nov 2026 15:00:00 +0000",
-      "description": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 4
-      },
-      "hardwareCounts": {
-        "Mac": 1
-      },
-      "brandMatches": 4,
-      "hardwareMatches": 1,
-      "score": 34.07572854166666
-    },
-    {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "date": "Sat, 07 Nov 2026 22:07:22 +0000",
-      "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "data center": 1
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 1,
-      "score": 18.841322673611113
-    },
-    {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "date": "Sat, 07 Nov 2026 21:17:08 +0000",
-      "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "date": "Mon, 09 Nov 2026 22:46:09 +0000",
+      "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
       "source": "TechCrunch",
       "sourceWeight": 1.3,
       "brandCounts": {
         "Nvidia": 2,
-        "Intel": 1,
         "EA": 2,
-        "X": 2
+        "X": 3
       },
       "hardwareCounts": {
-        "AI": 1
-      },
-      "brandMatches": 7,
-      "hardwareMatches": 1,
-      "score": 48.829694587191355
-    },
-    {
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "date": "Sat, 07 Nov 2026 19:00:00 +0000",
-      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "smartphone": 1,
-        "EV": 1
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 2,
-      "score": 21.797950752314815
-    },
-    {
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "date": "Sat, 07 Nov 2026 17:24:07 +0000",
-      "description": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 15.775755536265432
-    },
-    {
-      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-      "date": "Sat, 07 Nov 2026 17:18:00 +0000",
-      "description": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-      "source": "TechCrunch",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "Amazon": 2
-      },
-      "hardwareCounts": {
-        "display": 1,
         "OS": 1
       },
-      "brandMatches": 2,
-      "hardwareMatches": 2,
-      "score": 26.774339641203703
+      "brandMatches": 7,
+      "hardwareMatches": 1,
+      "score": 49.18756293981481
     },
     {
-      "title": "Welcome to Weed Island",
-      "link": "https://www.wired.com/story/welcome-to-weed-island-jersey/",
-      "date": "Mon, 09 Nov 2026 07:00:00 +0000",
-      "description": "How the tiny, self-governing British island of Jersey unintentionally became Europe’s front line in the multibillion-dollar global cannabis industry.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {},
-      "brandMatches": 0,
-      "hardwareMatches": 0,
-      "score": 11.197950752314814
-    },
-    {
-      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
-      "link": "https://www.wired.com/gallery/best-computer-speakers/",
-      "date": "Sun, 08 Nov 2026 12:00:00 +0000",
-      "description": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
+      "title": "The race is on to sue Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "date": "Mon, 09 Nov 2026 22:23:42 +0000",
+      "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "source": "TechCrunch",
+      "sourceWeight": 1.3,
       "brandCounts": {
-        "EA": 4
+        "Nvidia": 2,
+        "EA": 1,
+        "X": 2
+      },
+      "hardwareCounts": {},
+      "brandMatches": 5,
+      "hardwareMatches": 0,
+      "score": 36.182366180555555
+    },
+    {
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "date": "Mon, 09 Nov 2026 20:55:34 +0000",
+      "description": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+      "source": "TechCrunch",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "OS": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 14.161964945987656
+    },
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "date": "Mon, 09 Nov 2026 20:09:06 +0000",
+      "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "source": "TechCrunch",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "Nvidia": 2,
+        "EA": 1,
+        "Anthropic": 1
       },
       "hardwareCounts": {
-        "speaker": 4,
-        "AI": 2
+        "EV": 2
       },
       "brandMatches": 4,
-      "hardwareMatches": 6,
-      "score": 48.934061863425924
-    },
-    {
-      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-      "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-      "date": "Sun, 08 Nov 2026 12:00:00 +0000",
-      "description": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "EA": 2
-      },
-      "hardwareCounts": {
-        "AI": 1,
-        "OS": 1,
-        "beta": 1,
-        "app": 1
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 4,
-      "score": 32.934061863425924
-    },
-    {
-      "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
-      "link": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-      "date": "Sun, 08 Nov 2026 11:30:00 +0000",
-      "description": "More evidence that magnets are magical.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "camera": 1,
-        "EV": 1
-      },
-      "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 16.92711741898148
+      "score": 37.15120877314814
     },
     {
-      "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
-      "link": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
-      "date": "Sun, 08 Nov 2026 11:00:00 +0000",
-      "description": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "X": 1
-      },
-      "hardwareCounts": {
-        "AI": 1,
-        "OS": 2
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 3,
-      "score": 24.920172974537035
-    },
-    {
-      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
-      "link": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
-      "date": "Sun, 08 Nov 2026 10:30:00 +0000",
-      "description": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 15.913228530092592
-    },
-    {
-      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
-      "link": "https://www.wired.com/gallery/best-touchscreen-gloves/",
-      "date": "Sun, 08 Nov 2026 10:00:00 +0000",
-      "description": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "ARM": 1,
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "smartphone": 1,
-        "screen": 1,
-        "touchscreen": 1
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 3,
-      "score": 29.90628408564815
-    },
-    {
-      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-      "link": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-      "date": "Sun, 08 Nov 2026 10:00:00 +0000",
-      "description": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Apple": 2
-      },
-      "hardwareCounts": {
-        "Mac": 3,
-        "chip": 1,
-        "update": 1,
-        "app": 2
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 7,
-      "score": 41.90628408564815
-    },
-    {
-      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-      "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "date": "Sun, 08 Nov 2026 10:00:00 +0000",
-      "description": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
+      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+      "date": "Mon, 09 Nov 2026 19:39:41 +0000",
+      "description": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+      "source": "TechCrunch",
+      "sourceWeight": 1.3,
       "brandCounts": {
         "EA": 3,
+        "YouTube": 2
+      },
+      "hardwareCounts": {},
+      "brandMatches": 5,
+      "hardwareMatches": 0,
+      "score": 36.1443993595679
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "date": "Mon, 09 Nov 2026 19:24:51 +0000",
+      "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "source": "TechCrunch",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 4,
+        "Anthropic": 2
+      },
+      "hardwareCounts": {
+        "OS": 1
+      },
+      "brandMatches": 6,
+      "hardwareMatches": 1,
+      "score": 44.14096571759259
+    },
+    {
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "date": "Mon, 09 Nov 2026 19:21:46 +0000",
+      "description": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+      "source": "TechCrunch",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "AI": 4,
+        "platform": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 5,
+      "score": 26.140251979166667
+    },
+    {
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+      "date": "Mon, 09 Nov 2026 19:19:24 +0000",
+      "description": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+      "source": "TechCrunch",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "OS": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 1,
+      "score": 19.139704139660495
+    },
+    {
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "date": "Mon, 09 Nov 2026 18:09:52 +0000",
+      "description": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "source": "TechCrunch",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "Nvidia": 2,
+        "EA": 1,
         "X": 1
       },
       "hardwareCounts": {
-        "AI": 1,
-        "autonomous": 1
+        "chip": 1,
+        "AI": 5,
+        "OS": 1
+      },
+      "brandMatches": 4,
+      "hardwareMatches": 7,
+      "score": 52.12360846064814
+    },
+    {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "date": "Mon, 09 Nov 2026 18:00:00 +0000",
+      "description": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "source": "TechCrunch",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "Meta": 1,
+        "EA": 2,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "NPU": 1,
+        "AI": 1
       },
       "brandMatches": 4,
       "hardwareMatches": 2,
-      "score": 36.906284081790126
+      "score": 37.12132450617284
     },
     {
-      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
-      "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
-      "date": "Sat, 07 Nov 2026 13:00:00 +0000",
-      "description": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
+      "title": "Office Depot Coupons: $20 Off November 2026",
+      "link": "https://www.wired.com/story/office-depot-promo-codes/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
       "source": "Wired",
       "sourceWeight": 1.2,
       "brandCounts": {
-        "EA": 1
+        "X": 1
       },
       "hardwareCounts": {
         "EV": 1
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 18.614617415123455
+      "score": 19.187991172839507
     },
     {
-      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
-      "link": "https://www.wired.com/gallery/best-wifi-routers/",
-      "date": "Sat, 07 Nov 2026 12:00:00 +0000",
-      "description": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "router": 2,
-        "Wi-Fi": 1,
-        "OS": 1,
-        "EV": 1
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 5,
-      "score": 25.600728526234565
-    },
-    {
-      "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
-      "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
-      "date": "Sat, 07 Nov 2026 11:45:00 +0000",
-      "description": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Bose, and more.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Apple": 1,
-        "Sony": 1,
-        "EA": 5
-      },
-      "hardwareCounts": {
-        "headphones": 1,
-        "earbuds": 1,
-        "OS": 1,
-        "app": 1
-      },
-      "brandMatches": 7,
-      "hardwareMatches": 4,
-      "score": 57.59725630401235
-    },
-    {
-      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-      "link": "https://www.wired.com/gallery/best-cat-water-fountains/",
-      "date": "Sat, 07 Nov 2026 11:37:00 +0000",
-      "description": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "AI": 2
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 2,
-      "score": 21.595404452160494
-    },
-    {
-      "title": "This Totally Free App Can Free Up Space on Your Mac",
-      "link": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
-      "date": "Sat, 07 Nov 2026 11:15:00 +0000",
-      "description": "Stop paying for disk cleaners. This open source utility safely clears hidden caches, leftover app junk, and even gigabytes of offline Apple Intelligence models.",
-      "source": "Wired",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Apple": 1,
-        "Intel": 1,
-        "Gigabyte": 1,
-        "EA": 2
-      },
-      "hardwareCounts": {
-        "Mac": 1,
-        "app": 3,
-        "EV": 1
-      },
-      "brandMatches": 5,
-      "hardwareMatches": 5,
-      "score": 50.590311859567905
-    },
-    {
-      "title": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off",
-      "link": "https://www.wired.com/story/goruck-black-friday-sale-2026/",
-      "date": "Sat, 07 Nov 2026 11:00:00 +0000",
-      "description": "Skip the gym and get outdoors with GoRuck’s indestructible packs and workout gear, deeply discounted ahead of the holidays.",
+      "title": "Bose Promo Code: 40% Off for November 2026",
+      "link": "https://www.wired.com/story/bose-coupon-code/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
       "source": "Wired",
       "sourceWeight": 1.2,
       "brandCounts": {
         "EA": 3
       },
-      "hardwareCounts": {},
+      "hardwareCounts": {
+        "speaker": 1,
+        "headphones": 1,
+        "soundbar": 1,
+        "OS": 2
+      },
       "brandMatches": 3,
-      "hardwareMatches": 0,
-      "score": 25.58683963734568
+      "hardwareMatches": 5,
+      "score": 41.18799117283951
     },
     {
-      "title": "How to use your laptop as a second monitor",
-      "link": "https://www.engadget.com/2309277/how-to-use-laptop-second-desktop-monitor/",
-      "date": "Mon, 09 Nov 2026 01:30:00 +0000",
-      "description": "If you have an extra laptop lying around, you can connect it to your primary laptop with a wireless or wired connection for a free dual monitor set up.",
-      "source": "Engadget",
+      "title": "Valvoline Coupons and Promo Codes for November 2026",
+      "link": "https://www.wired.com/story/valvoline-coupons/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "AI": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 1,
+      "score": 19.187991172839507
+    },
+    {
+      "title": "Rover Promo Codes and Referral Deals for November 2026",
+      "link": "https://www.wired.com/story/rover-promo-code/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Score your Rover promo code for November 2026.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 1
+      },
+      "hardwareCounts": {},
+      "brandMatches": 1,
+      "hardwareMatches": 0,
+      "score": 16.187991172839507
+    },
+    {
+      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
+      "link": "https://www.wired.com/story/naturepedic-promo-code/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Shop the Naturepedic sale this November 2026.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.187991172839507
+    },
+    {
+      "title": "Sam's Club Promo Codes and Membership Deals for November 2026",
+      "link": "https://www.wired.com/story/sams-club-coupon/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 1
+      },
+      "hardwareCounts": {},
+      "brandMatches": 1,
+      "hardwareMatches": 0,
+      "score": 16.187991172839507
+    },
+    {
+      "title": "Chirp Discount Codes: 67% Off",
+      "link": "https://www.wired.com/story/chirp-discount-code/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.187991168981481
+    },
+    {
+      "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
+      "link": "https://www.wired.com/story/barkbox-promo-code/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 1,
+        "X": 2
+      },
+      "hardwareCounts": {
+        "AI": 1
+      },
+      "brandMatches": 3,
+      "hardwareMatches": 1,
+      "score": 29.18799116898148
+    },
+    {
+      "title": "Sealy Promo Codes: $100 Off",
+      "link": "https://www.wired.com/story/sealy-promo-code/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Whether you’re switching from springs to memory foam or just want to sleep cooler this summer, these Sealy mattress deals for November 2026 will have you waking up refreshed—and with cash left in your wallet.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 3
+      },
+      "hardwareCounts": {
+        "memory": 1,
+        "cooler": 1
+      },
+      "brandMatches": 3,
+      "hardwareMatches": 2,
+      "score": 32.18799116898148
+    },
+    {
+      "title": "Babbel Promo Code: Up to 65% Off in November 2026",
+      "link": "https://www.wired.com/story/babbel-promo-code/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.",
+      "source": "Wired",
       "sourceWeight": 1.2,
       "brandCounts": {
         "X": 1
       },
-      "hardwareCounts": {
-        "laptop": 3,
-        "monitor": 2
-      },
+      "hardwareCounts": {},
       "brandMatches": 1,
-      "hardwareMatches": 5,
-      "score": 31.1215618595679
+      "hardwareMatches": 0,
+      "score": 16.187991168981483
     },
     {
-      "title": "Why your USB device isn't showing up on your MacBook and how you can fix it",
-      "link": "https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes/",
-      "date": "Mon, 09 Nov 2026 01:00:00 +0000",
-      "description": "If your USB device isn't showing up on your MacBook, the issue could be anything from a damaged cord to software troubles. Find out how to fix these problems.",
-      "source": "Engadget",
+      "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+      "link": "https://www.wired.com/story/hr-block-coupon/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
+      "source": "Wired",
       "sourceWeight": 1.2,
       "brandCounts": {
         "X": 2
       },
       "hardwareCounts": {
-        "Mac": 2,
-        "software": 1,
-        "EV": 2
+        "EV": 1
       },
       "brandMatches": 2,
-      "hardwareMatches": 5,
-      "score": 36.11461741512346
+      "hardwareMatches": 1,
+      "score": 24.18799116898148
     },
     {
-      "title": "Which Canon Cameras Are Compatible With Its Free 3D Photo Software?",
-      "link": "https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software/",
-      "date": "Mon, 09 Nov 2026 00:45:00 +0000",
-      "description": "Canon cameras are often known for their versatility and compatibility with software programs. These cameras are best used with the free 3D photo software.",
-      "source": "Engadget",
+      "title": "Braun Promo Codes: 15% Off November 2026",
+      "link": "https://www.wired.com/story/braun-promo-code/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.",
+      "source": "Wired",
       "sourceWeight": 1.2,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "RAM": 1,
-        "camera": 3,
-        "software": 3
+      "brandCounts": {
+        "X": 3
       },
-      "brandMatches": 0,
-      "hardwareMatches": 7,
-      "score": 32.11114519290124
+      "hardwareCounts": {},
+      "brandMatches": 3,
+      "hardwareMatches": 0,
+      "score": 26.18799116898148
     },
     {
-      "title": "The disadvantages of buying tech from other countries",
-      "link": "https://www.engadget.com/2309284/disadvantages-buying-tech-from-other-countries/",
-      "date": "Mon, 09 Nov 2026 00:30:00 +0000",
-      "description": "Importing a phone or a laptop can be appealing, especially if you can get a product you wouldn't otherwise have access to, but it has downsides.",
-      "source": "Engadget",
+      "title": "Casetify Promo Codes | 15% Off November 2026",
+      "link": "https://www.wired.com/story/casetify-promo-code/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.",
+      "source": "Wired",
       "sourceWeight": 1.2,
       "brandCounts": {
         "EA": 1
       },
       "hardwareCounts": {
-        "laptop": 1,
         "app": 1
       },
       "brandMatches": 1,
-      "hardwareMatches": 2,
-      "score": 22.107672970679012
+      "hardwareMatches": 1,
+      "score": 19.18799116898148
     },
     {
-      "title": "10 Apple products and features that transformed under Tim Cook's leadership",
-      "link": "https://www.engadget.com/2305273/apple-products-features-transformed-under-tim-cook-leadership/",
-      "date": "Mon, 09 Nov 2026 00:15:00 +0000",
-      "description": "Tim Cook led Apple for 15 years, during which time the company's offerings expanded and went through all kinds of changes.",
+      "title": "Dyson Promo Codes: 25% Off in November 2026",
+      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "AI": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 14.187991168981481
+    },
+    {
+      "title": "Breville Promo Code: $700 Off | November 2026",
+      "link": "https://www.wired.com/story/breville-promo-code/",
+      "date": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "description": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
+      "source": "Wired",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 2
+      },
+      "hardwareCounts": {
+        "Mac": 1,
+        "app": 1,
+        "EV": 2
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 4,
+      "score": 33.18799116898148
+    },
+    {
+      "title": "Every senior with an Apple Watch should set up these 5 health alerts",
+      "link": "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/",
+      "date": "Tue, 10 Nov 2026 01:30:00 +0000",
+      "description": "Seniors, especially those who live alone, could benefit from a number of Apple Watch health alerts, including medication reminders and fall detection.",
       "source": "Engadget",
       "sourceWeight": 1.2,
       "brandCounts": {
         "Apple": 2,
-        "EA": 3,
-        "X": 1
+        "EA": 2,
+        "NIO": 2
       },
       "hardwareCounts": {
-        "app": 2
+        "OS": 1,
+        "app": 2,
+        "EV": 1
       },
       "brandMatches": 6,
-      "hardwareMatches": 2,
-      "score": 47.10420074845679
-    },
-    {
-      "title": "Those white cameras mounted above traffic lights serve a little-known purpose",
-      "link": "https://www.engadget.com/2309304/white-cameras-mounted-above-traffic-lights-little-known-purpose/",
-      "date": "Mon, 09 Nov 2026 00:00:00 +0000",
-      "description": "Many people are up in arms over Flock and similar cameras that can track you when you drive. But these cameras are there for a whole different reason.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "ARM": 1,
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "camera": 3,
-        "OS": 2
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 5,
-      "score": 36.100728526234576
-    },
-    {
-      "title": "SpaceXAI Grok Bot availability just keeps growing - here's which plans offer it",
-      "link": "https://www.engadget.com/2309308/spacexai-grok-bot-availability-plans/",
-      "date": "Sun, 08 Nov 2026 23:45:00 +0000",
-      "description": "SpaceXAI 's Grok Bot can handle multi-step work on a cloud computer, but you'll need to figure out the jumble of subscription plans first.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "xAI": 2,
-        "X": 2,
-        "SpaceX": 2,
-        "Figure": 1
-      },
-      "hardwareCounts": {
-        "AI": 3,
-        "cloud": 1
-      },
-      "brandMatches": 7,
       "hardwareMatches": 4,
-      "score": 58.09725630401235
+      "score": 53.12549116898148
     },
     {
-      "title": "Should you make the switch to Google Pixel from Samsung Galaxy?",
-      "link": "https://www.engadget.com/2309302/switch-to-google-pixel-from-samsung-galaxy/",
-      "date": "Sun, 08 Nov 2026 23:30:00 +0000",
-      "description": "While Samsung Galaxy phones deliver flagship power, Google Pixel phones have lots of benefits, including faster updates and minimal bloatware.",
+      "title": "How to turn on personal results on your Google Home",
+      "link": "https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home/",
+      "date": "Tue, 10 Nov 2026 00:30:00 +0000",
+      "description": "Every member of the family can have their own assistant with personal results on Google Home. Find out how to set this feature up.",
       "source": "Engadget",
       "sourceWeight": 1.2,
       "brandCounts": {
         "Google": 2,
-        "Samsung": 2,
-        "X": 4
+        "EA": 1
       },
       "hardwareCounts": {
-        "update": 1
+        "EV": 1
       },
-      "brandMatches": 8,
+      "brandMatches": 3,
       "hardwareMatches": 1,
-      "score": 54.093784081790126
+      "score": 29.11160228009259
     },
     {
-      "title": "What is the Slate Telematics Module and what can it be used for?",
-      "link": "https://www.engadget.com/2309298/what-is-slate-telematic-module-uses/",
-      "date": "Sun, 08 Nov 2026 23:00:00 +0000",
-      "description": "When you buy a Slate Truck, you only pay for the tech you want, and that includes connectivity between the vehicle and your phone. Is this a minimalist's dream?",
+      "title": "The safety reason TSA might ask you to turn on your phone",
+      "link": "https://www.engadget.com/2307751/why-tsa-ask-turn-on-phone-safety-reason/",
+      "date": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "description": "While traveling through the airport, TSA may ask you to power up your phone. Border agents can conduct a more thorough search as well.",
       "source": "Engadget",
       "sourceWeight": 1.2,
       "brandCounts": {
-        "EA": 1
+        "EA": 2
       },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 16.08683963734568
+      "hardwareCounts": {
+        "AI": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 1,
+      "score": 24.104657835648148
     },
     {
-      "title": "How long can you expect your PC RAM to last?",
-      "link": "https://www.engadget.com/2309637/how-long-pc-ram-lasts-lifespan/",
-      "date": "Sun, 08 Nov 2026 22:30:00 +0000",
-      "description": "With the rising cost and demand for RAM and the ever-increasing tech requirements of PCs, it may be hard to determine just how long your components will last.",
+      "title": "Why you probably shouldn't buy gadgets with micro USB ports",
+      "link": "https://www.engadget.com/2307748/why-avoid-buying-micro-usb-gadgets/",
+      "date": "Mon, 09 Nov 2026 23:30:00 +0000",
+      "description": "USB-C has largely taken over where micro USB used to reign, but you'll still spot (and should skip using) some devices using the older connector.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "USB-C": 1,
+        "EV": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 2,
+      "score": 17.097713391203705
+    },
+    {
+      "title": "The pros and cons of using mesh Wi-Fi",
+      "link": "https://www.engadget.com/2307745/using-mesh-wifi-pros-and-cons/",
+      "date": "Mon, 09 Nov 2026 23:00:00 +0000",
+      "description": "Should you buy a mesh Wi-Fi system or a standalone router? Learn how each handles range, roaming, and cost, and which one fits your home best.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 2
+      },
+      "hardwareCounts": {
+        "router": 1,
+        "Wi-Fi": 2,
+        "OS": 2
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 5,
+      "score": 36.09076894675926
+    },
+    {
+      "title": "YouTube will once again be part of Billboard chart calculations in 2027",
+      "link": "https://www.engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/",
+      "date": "Mon, 09 Nov 2026 21:09:51 +0000",
+      "description": "Billboard will give more weight to free, ad-supported listening in its methodology.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "YouTube": 1
+      },
+      "hardwareCounts": {
+        "AI": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 1,
+      "score": 19.065271261574072
+    },
+    {
+      "title": "5 Nintendo Switch 2 features everyone should know about",
+      "link": "https://www.engadget.com/2307744/nintendo-switch-2-features-everyone-should-know/",
+      "date": "Mon, 09 Nov 2026 21:00:00 +0000",
+      "description": "From finding hidden controllers to sharing games with others, improve your gaming experience on the Nintendo Switch 2 with these useful features.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Nintendo": 2,
+        "EA": 2,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "controller": 1,
+        "Nintendo Switch": 2,
+        "EV": 1
+      },
+      "brandMatches": 5,
+      "hardwareMatches": 4,
+      "score": 48.06299116898148
+    },
+    {
+      "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
+      "link": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
+      "date": "Mon, 09 Nov 2026 20:56:51 +0000",
+      "description": "It'll cost you to access Logic Pro's AI assistant after you reach the monthly usage limit.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Apple": 1,
+        "EA": 3,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "AI": 2,
+        "OS": 1,
+        "app": 1
+      },
+      "brandMatches": 5,
+      "hardwareMatches": 4,
+      "score": 48.06226200231482
+    },
+    {
+      "title": "Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up",
+      "link": "https://www.engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up/",
+      "date": "Mon, 09 Nov 2026 19:42:47 +0000",
+      "description": "There's a checkbox that simply turns it off.",
       "source": "Engadget",
       "sourceWeight": 1.2,
       "brandCounts": {
@@ -1148,292 +1122,255 @@
         "X": 1
       },
       "hardwareCounts": {
-        "PC": 2,
-        "RAM": 2,
-        "OS": 1,
-        "EV": 1
+        "Windows": 1
       },
       "brandMatches": 2,
-      "hardwareMatches": 6,
-      "score": 39.079895189043214
+      "hardwareMatches": 1,
+      "score": 24.045116936728395
     },
     {
-      "title": "Qalo SL-1 vs. Garmin Cirqa: How these minimalist wearables compare",
-      "link": "https://www.engadget.com/2309634/qalo-sl-1-vs-garmin-cirqa-how-wearables-compare/",
-      "date": "Sun, 08 Nov 2026 22:15:00 +0000",
-      "description": "The Qalo SL-1 and Garmin Cirqa were released in 2026, and both cost about $200. A comparison of these screenless wearables reveals some key differences.",
+      "title": "How to use your iPhone to take the best picture of the Moon",
+      "link": "https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/",
+      "date": "Mon, 09 Nov 2026 19:30:00 +0000",
+      "description": "We explain how to take the best photos of the Moon with your iPhone, regardless of which model.",
       "source": "Engadget",
       "sourceWeight": 1.2,
       "brandCounts": {
-        "ARM": 2,
-        "Garmin": 2,
-        "EA": 4
+        "X": 1
       },
       "hardwareCounts": {
-        "screen": 1,
-        "wearable": 2,
-        "OS": 1,
-        "EV": 1
+        "AI": 1,
+        "OS": 1
       },
-      "brandMatches": 8,
-      "hardwareMatches": 5,
-      "score": 66.07642296682099
-    },
-    {
-      "title": "The one Starlink perk that gives it an edge over traditional internet",
-      "link": "https://www.engadget.com/2309293/starlink-perk-edge-over-traditional-internet-adaptibility/",
-      "date": "Sun, 08 Nov 2026 22:00:00 +0000",
-      "description": "Cable and fiber often win on performance, yet Starlink offers a distinct benefit that could matter more depending on how and why you connect.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Starlink": 2
-      },
-      "hardwareCounts": {
-        "Matter": 1,
-        "Edge": 1
-      },
-      "brandMatches": 2,
+      "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 27.072950744598764
+      "score": 22.042157831790124
     },
     {
-      "title": "A sample of over 5,000 drives reveals one problem with new HDDs",
-      "link": "https://www.engadget.com/2309632/one-problem-with-new-hdds-5000-drives-study/",
-      "date": "Sun, 08 Nov 2026 21:45:00 +0000",
-      "description": "HDDs may not be as in-demand as the faster SSDs, but they're still plenty popular thanks to their low cost. And yet, this sample study reveals the big issue.",
+      "title": "Gmail users should know about this little-noticed feature",
+      "link": "https://www.engadget.com/2307742/gmail-unsend-feature/",
+      "date": "Mon, 09 Nov 2026 19:00:00 +0000",
+      "description": "Gmail's unsend feature will delay it from dispatching your message. Here's how to extend the amount of time you have to use it.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 2,
+        "GM": 2,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "AI": 2,
+        "patch": 1
+      },
+      "brandMatches": 5,
+      "hardwareMatches": 3,
+      "score": 45.03521338734568
+    },
+    {
+      "title": "How does Google Wallet's notification feed work and can you disable it?",
+      "link": "https://www.engadget.com/2307741/google-wallet-notifications-how-works-disable/",
+      "date": "Mon, 09 Nov 2026 18:15:00 +0000",
+      "description": "Google Wallet is attempting to make notifications easier to find with a notification feed, but if you're sick of alerts, find out how to disable them.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "Google": 2,
+        "EA": 1
+      },
+      "hardwareCounts": {},
+      "brandMatches": 3,
+      "hardwareMatches": 0,
+      "score": 26.02479672067901
+    },
+    {
+      "title": "The reason your laptop can get hot after extended use",
+      "link": "https://www.engadget.com/2307737/why-laptops-overheat-after-extended-use/",
+      "date": "Mon, 09 Nov 2026 17:45:00 +0000",
+      "description": "While it's normal for laptops to sometimes overheat after extended use, excessive temperature spikes can be reduced in a few ways.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 2,
+        "X": 3
+      },
+      "hardwareCounts": {
+        "laptop": 2
+      },
+      "brandMatches": 5,
+      "hardwareMatches": 2,
+      "score": 42.01785227623457
+    },
+    {
+      "title": "What the tiny blue dot on your Android phone is telling you",
+      "link": "https://www.engadget.com/2307733/what-tiny-blue-dot-on-android-phone-telling-you/",
+      "date": "Mon, 09 Nov 2026 17:15:00 +0000",
+      "description": "That tiny blue dot on the top right corner of your Android phone indicates something important. Find out what this icon means.",
+      "source": "Engadget",
+      "sourceWeight": 1.2,
+      "brandCounts": {
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "Android": 2
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 2,
+      "score": 22.010907831790124
+    },
+    {
+      "title": "Venmo finally launches an in-app bill splitting feature",
+      "link": "https://www.engadget.com/2310993/venmo-finally-launches-an-in-app-bill-splitting-feature/",
+      "date": "Mon, 09 Nov 2026 17:05:15 +0000",
+      "description": "Venmo's receipt-scanning feature is rolling out now.",
       "source": "Engadget",
       "sourceWeight": 1.2,
       "brandCounts": {
         "EA": 2
       },
       "hardwareCounts": {
-        "SSD": 1,
-        "HDD": 2,
-        "OS": 1,
-        "EV": 2
+        "app": 1
       },
       "brandMatches": 2,
-      "hardwareMatches": 6,
-      "score": 39.06947852237654
+      "hardwareMatches": 1,
+      "score": 24.008650887345677
     },
     {
-      "title": "Samsung One UI removed the all apps button, but you can easily get it back",
-      "link": "https://www.engadget.com/2309629/samsung-one-ui-remove-all-apps-button-get-back/",
-      "date": "Sun, 08 Nov 2026 21:30:00 +0000",
-      "description": "Miss the handy all apps button that used to be on Samsung's One UI home screen? Fret not; it's a single toggle away.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Samsung": 2,
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "screen": 1,
-        "app": 2
-      },
-      "brandMatches": 3,
-      "hardwareMatches": 3,
-      "score": 35.06600630015433
-    },
-    {
-      "title": "NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts",
-      "link": "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/",
-      "date": "Sun, 08 Nov 2026 21:17:45 +0000",
-      "description": "Reports by The New York Times and the Financial Times linked the CEO to a woman suspected to be a spy.",
-      "source": "Engadget",
-      "sourceWeight": 1.2,
-      "brandCounts": {
-        "Nvidia": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 16.063170652006175
-    },
-    {
-      "title": "Nvidia Board Launches Probe After Reports CEO Was Targeted by Chinese Spy",
-      "link": "https://www.cnet.com/news/nvidia-board-probes-reports-ceo-was-targeted-by-spy/",
-      "date": "2026-11-08T21:57:39.000Z",
-      "description": "",
-      "source": "CNET News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "Nvidia": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 15.972406763117284
-    },
-    {
-      "title": "Wendy’s Just Released a Video Game Where You Can Win Fast Food",
-      "link": "https://www.cnet.com/tech/gaming/wendys-video-game-fast-food/",
-      "date": "2026-11-07T22:43:20.000Z",
-      "description": "",
-      "source": "CNET News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 15.649648275462964
-    },
-    {
-      "title": "Roku Retires Fish Tank Screensaver to Reel Viewers Into Roku City",
-      "link": "https://www.cnet.com/tech/home-entertainment/roku-retires-aquatic-life-screensaver-2/",
-      "date": "2026-11-04T00:05:51.000Z",
+      "title": "NASA Just Made a Bunch of Moon Base Announcements: Here’s What They Are",
+      "link": "https://www.cnet.com/science/space/nasa-max-power-awards-moon-base-contracts/",
+      "date": "2026-11-10T03:20:15.000Z",
       "description": "",
       "source": "CNET News",
       "sourceWeight": 1.1,
       "brandCounts": {},
-      "hardwareCounts": {
-        "screen": 1
-      },
+      "hardwareCounts": {},
       "brandMatches": 0,
-      "hardwareMatches": 1,
-      "score": 12.335416022376542
+      "hardwareMatches": 0,
+      "score": 11.05101199845679
     },
     {
-      "title": "iPhone Duo vs. Galaxy Z Fold 8 Camera Comparison: Frolicking With Apple’s and Samsung’s Foldables",
-      "link": "https://www.cnet.com/tech/mobile/iphone-duo-vs-galaxy-z-fold-8-camera-comparison/",
-      "date": "2026-11-07T13:00:00.000Z",
+      "title": "Ford Just Proved Its EV Battery Health Barely Degrades After 5 Years",
+      "link": "https://www.cnet.com/home/electric-vehicles/ford-ev-battery-health-study-5-years-later/",
+      "date": "2026-11-10T01:00:33.000Z",
       "description": "",
       "source": "CNET News",
       "sourceWeight": 1.1,
       "brandCounts": {
-        "Apple": 1,
-        "Samsung": 1,
-        "X": 1
+        "EA": 2,
+        "Ford": 1
       },
       "hardwareCounts": {
-        "camera": 1,
-        "app": 1
+        "battery": 1,
+        "EV": 1
       },
       "brandMatches": 3,
       "hardwareMatches": 2,
-      "score": 31.514617411265434
+      "score": 32.01867403549383
     },
     {
-      "title": "Apple Says There Are Now 100,000 Apps Built for the iPhone Duo",
-      "link": "https://www.cnet.com/tech/mobile/apple-iphone-duo-100000-apps-available/",
-      "date": "2026-11-06T23:15:09.000Z",
+      "title": "AI-Driven Tech Layoffs Could Trigger a 1.6 Million Job Recession",
+      "link": "https://www.cnet.com/tech/services-and-software/ai-tech-layoffs-2026-trigger-recession/",
+      "date": "2026-11-09T23:24:46.000Z",
       "description": "",
       "source": "CNET News",
       "sourceWeight": 1.1,
-      "brandCounts": {
-        "Apple": 1
-      },
-      "hardwareCounts": {
-        "app": 2
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 2,
-      "score": 21.323679911265433
-    },
-    {
-      "title": "Good Riddance: Tesla to End Cybertruck Production in 2027",
-      "link": "https://www.cnet.com/home/electric-vehicles/tesla-ends-cybertruck-production-2027/",
-      "date": "2026-11-06T21:25:43.000Z",
-      "description": "",
-      "source": "CNET News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "Tesla": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 15.298348121141975
-    },
-    {
-      "title": "Do You Speak Geek? 5 Tech Terms That Endure, and 5 That Got Defragged",
-      "link": "https://www.cnet.com/tech/vibe-coding-pdoom-tech-terms-guide/",
-      "date": "2026-11-06T20:12:22.000Z",
-      "description": "",
-      "source": "CNET News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 15.28136895447531
-    },
-    {
-      "title": "CNET People’s Picks: Readers Say This Brand Wins as the Top Laptop Choice",
-      "link": "https://www.cnet.com/tech/computing/peoples-picks-2026-laptops/",
-      "date": "2026-11-04T13:00:00.000Z",
-      "description": "",
-      "source": "CNET News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "laptop": 1
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 1,
-      "score": 17.514617411265434
-    },
-    {
-      "title": "There’s a New Way to Shop With AI. Text Alexa",
-      "link": "https://www.cnet.com/tech/services-and-software/amazon-alexa-text-to-shop-ai-feature/",
-      "date": "2026-11-06T19:54:31.000Z",
-      "description": "",
-      "source": "CNET News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "X": 2
-      },
+      "brandCounts": {},
       "hardwareCounts": {
         "AI": 1
       },
-      "brandMatches": 2,
+      "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 23.277237010030866
+      "score": 13.996501967592591
     },
     {
-      "title": "OpenAI and Anthropic Drop New AI Tools for Cybersecurity, Images and Finance",
-      "link": "https://www.cnet.com/tech/services-and-software/roundup-chatgpt-claude-gpt-6-cyber-images-2-6-personal-finance/",
-      "date": "2026-11-06T18:10:17.000Z",
+      "title": "iOS 27.3 Could Bring More Audio Intelligence and the Redesigned Health App Soon",
+      "link": "https://www.cnet.com/tech/services-and-software/ios-27-3-features/",
+      "date": "2026-11-09T23:00:58.000Z",
       "description": "",
       "source": "CNET News",
       "sourceWeight": 1.1,
       "brandCounts": {
-        "OpenAI": 1,
+        "Intel": 1,
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "OS": 1,
+        "iOS": 1,
+        "app": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 3,
+      "score": 29.990992708333337
+    },
+    {
+      "title": "Anthropic Introduces New Fable 5.2 and Mythos 5.2 AI Models",
+      "link": "https://www.cnet.com/tech/anthropic-introduces-new-fable-5-2-and-mythos-5-2-ai-models/",
+      "date": "2026-11-09T22:20:20.000Z",
+      "description": "",
+      "source": "CNET News",
+      "sourceWeight": 1.1,
+      "brandCounts": {
         "Anthropic": 1
       },
       "hardwareCounts": {
-        "AI": 2
+        "AI": 1,
+        "AI model": 1,
+        "OS": 1
       },
-      "brandMatches": 2,
-      "hardwareMatches": 2,
-      "score": 26.253108923611112
+      "brandMatches": 1,
+      "hardwareMatches": 3,
+      "score": 24.981586844135805
     },
     {
-      "title": "Live Now! Watch as This iPhone Duo Crosses 300K Folds in Our Custom Machine",
-      "link": "https://www.cnet.com/tech/mobile/watch-us-fold-the-iphone-duo-thousands-of-times-on-our-weeks-long-livestream/",
-      "date": "2026-10-26T17:00:15.000Z",
+      "title": "New Paramount Plus and HBO Max Bundle to Arrive Early Next Year",
+      "link": "https://www.cnet.com/tech/services-and-software/new-paramount-plus-and-hbo-max-bundle-to-arrive-early-next-year/",
+      "date": "2026-11-09T21:43:01.000Z",
+      "description": "",
+      "source": "CNET News",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "EA": 2,
+        "X": 2
+      },
+      "hardwareCounts": {
+        "RAM": 1
+      },
+      "brandMatches": 4,
+      "hardwareMatches": 1,
+      "score": 33.972948726851854
+    },
+    {
+      "title": "NASA’s Voyager 1 to Cross Historic One Light-Day Milestone on Nov. 18",
+      "link": "https://www.cnet.com/science/space/voyager-1-passes-one-light-day/",
+      "date": "2026-11-09T20:33:48.000Z",
       "description": "",
       "source": "CNET News",
       "sourceWeight": 1.1,
       "brandCounts": {},
       "hardwareCounts": {
-        "Mac": 1,
         "OS": 1
       },
       "brandMatches": 0,
-      "hardwareMatches": 2,
-      "score": 12.570230837191358
+      "hardwareMatches": 1,
+      "score": 13.95692635030864
     },
     {
-      "title": "Bluetooth 7 Speeds Are Set to Quadruple in 2027, Especially for Audio",
-      "link": "https://www.cnet.com/tech/bluetooth-7-speeds-quadruple-2027/",
+      "title": "How to Use AI Tools Like ChatGPT, Gemini and Claude to Prep for a Job Interview",
+      "link": "https://www.cnet.com/tech/services-and-software/facing-down-a-job-interview-ai-could-help-you-prepare/",
+      "date": "2026-05-12T18:57:00.000Z",
+      "description": "",
+      "source": "CNET News",
+      "sourceWeight": 1.1,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "AI": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 4.1
+    },
+    {
+      "title": "Bluetooth Core 7.0 Speeds Are Set to Quadruple in 2027, Especially for Audio",
+      "link": "https://www.cnet.com/tech/bluetooth-core-7-speeds-quadruple-2027/",
       "date": "2026-11-06T00:11:18.000Z",
       "description": "",
       "source": "CNET News",
@@ -1444,220 +1381,292 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.003344263117285
+      "score": 12.67394023919753
     },
     {
-      "title": "Amazon Deals of the Day: Clean Up Before the Holidays With Over $100 Off the Dyson Ball Animal Vacuum",
-      "link": "https://www.cnet.com/tech/amazon-deals-of-the-day-2026-11-06/",
-      "date": "2026-11-06T16:33:51.000Z",
+      "title": "Vitamix Goes Portable: Meet Ion, the Brand’s First Cordless Blender",
+      "link": "https://www.cnet.com/home/kitchen-and-household/vitamix-portable-ion-first-cordless-blender/",
+      "date": "2026-11-09T18:27:10.000Z",
       "description": "",
       "source": "CNET News",
       "sourceWeight": 1.1,
       "brandCounts": {
-        "Amazon": 1,
-        "EA": 2
+        "X": 1
       },
       "hardwareCounts": {},
-      "brandMatches": 3,
+      "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 25.230786392746914
+      "score": 15.927613078703704
     },
     {
-      "title": "Will Democrats Rein in Big Tech? It Starts With Privacy and Data Centers",
-      "link": "https://www.cnet.com/tech/services-and-software/midterm-election-2026-democrats-rein-in-big-tech-reaction/",
-      "date": "2026-11-06T15:57:34.000Z",
+      "title": "Live Now! The iPhone Duo Has Been Folded 362K Times and Counting in Our Custom Machine",
+      "link": "https://www.cnet.com/tech/mobile/watch-us-fold-the-iphone-duo-thousands-of-times-on-our-weeks-long-livestream/",
+      "date": "2026-10-26T17:00:15.000Z",
       "description": "",
       "source": "CNET News",
       "sourceWeight": 1.1,
       "brandCounts": {},
       "hardwareCounts": {
-        "data center": 1
+        "Mac": 1
       },
       "brandMatches": 0,
       "hardwareMatches": 1,
-      "score": 13.222387472993828
+      "score": 9.240826813271605
     },
     {
-      "title": "The Step-by-Step Guide to Shutting Off Apple Intelligence Features in iOS 27",
-      "link": "https://www.cnet.com/tech/services-and-software/how-to-turn-off-apple-intelligence/",
-      "date": "2024-12-11T21:09:19.000Z",
+      "title": "Uber Parking Lets You Book a Spot Directly in the App. Here’s How",
+      "link": "https://www.cnet.com/roadshow/rideshare/uber-parking-launch/",
+      "date": "2026-11-09T17:00:00.000Z",
+      "description": "",
+      "source": "CNET News",
+      "sourceWeight": 1.1,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "app": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 13.907435609567901
+    },
+    {
+      "title": "What’s That on Your Wrist? We Want to Know Which Wearables You Love the Most",
+      "link": "https://www.cnet.com/tech/peoples-picks-survey-2026/",
+      "date": "2026-11-02T17:30:00.000Z",
       "description": "",
       "source": "CNET News",
       "sourceWeight": 1.1,
       "brandCounts": {
-        "Apple": 1,
-        "Intel": 1,
         "EA": 1
       },
       "hardwareCounts": {
-        "OS": 1,
-        "iOS": 1,
-        "app": 1
+        "wearable": 1,
+        "OS": 1
       },
-      "brandMatches": 3,
-      "hardwareMatches": 3,
-      "score": 25.1
+      "brandMatches": 1,
+      "hardwareMatches": 2,
+      "score": 19.581046720679012
     },
     {
-      "title": "How Do Ocean Buoys Measure The Height Of Waves?",
-      "link": "https://www.slashgear.com/2305428/how-ocean-buoys-measure-wave-height-explained/",
-      "date": "Mon, 09 Nov 2026 04:45:00 +0000",
-      "description": "Ocean buoys measure all sorts of statistics, including wave height. Here's how they do that and how they report their results back to shore.",
+      "title": "Google’s AI Mode Will Soon Show Ads Even in Your Follow-Up Questions",
+      "link": "https://www.cnet.com/tech/services-and-software/google-expands-advertising-ai-mode-overviews/",
+      "date": "2026-10-30T00:43:22.000Z",
+      "description": "",
+      "source": "CNET News",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "Google": 1
+      },
+      "hardwareCounts": {
+        "AI": 1,
+        "EV": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 2,
+      "score": 18.348029745370372
+    },
+    {
+      "title": "Which Foldable Phone Has the Best Battery Life? We Put Them to the Test",
+      "link": "https://www.cnet.com/tech/mobile/foldable-phone-best-battery-life/",
+      "date": "2026-11-09T13:00:00.000Z",
+      "description": "",
+      "source": "CNET News",
+      "sourceWeight": 1.1,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "battery": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 13.851880054012344
+    },
+    {
+      "title": "5 Compact Ryobi Tools That Are Ideal For A Small Workshop",
+      "link": "https://www.slashgear.com/2306858/compact-ryobi-tools-for-small-workshop/",
+      "date": "Tue, 10 Nov 2026 04:45:00 +0000",
+      "description": "If you have a smaller workspace, there are some tools you can pick up that will be useful and won't take up a lot of space. Here are some of our favorites.",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "EA": 4
+        "EA": 1
       },
       "hardwareCounts": {},
-      "brandMatches": 4,
+      "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 31.26670074459877
+      "score": 16.270630054012344
     },
     {
-      "title": "This Leatherman Multitool Played An Important Role In Project Hail Mary",
-      "link": "https://www.slashgear.com/2305660/leatherman-multitool-project-hail-mary/",
-      "date": "Mon, 09 Nov 2026 03:45:00 +0000",
-      "description": "Project Hail Mary is Ryan Gosling's blockbuster film and the Leatherman tool played an important role. Here's where you'll see it and if it's realistic.",
+      "title": "5 Disadvantages Of V-Twin Motorcycle Engines",
+      "link": "https://www.slashgear.com/2307541/disadvantages-of-v-twin-motorcycle-engines/",
+      "date": "Tue, 10 Nov 2026 03:45:00 +0000",
+      "description": "V-twin motorcycle engines deliver a distinctive riding experience, but their character comes with trade-offs worth understanding.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "X": 1
+      },
+      "hardwareCounts": {},
+      "brandMatches": 1,
+      "hardwareMatches": 0,
+      "score": 16.256741165123458
+    },
+    {
+      "title": "5 Of The Best Uses For The USB-C Port On Your Steam Deck",
+      "link": "https://www.slashgear.com/2307545/steam-deck-usb-port-uses/",
+      "date": "Tue, 10 Nov 2026 03:15:00 +0000",
+      "description": "Like most modern devices, the Steam Deck includes a USB-C charging port. It is worth knowing that that port can do a whole lot more besides just charging.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "Steam": 2,
+        "EA": 2
+      },
+      "hardwareCounts": {
+        "Steam Deck": 2,
+        "USB-C": 2,
+        "OS": 1,
+        "EV": 1
+      },
+      "brandMatches": 4,
+      "hardwareMatches": 6,
+      "score": 49.24979672067901
+    },
+    {
+      "title": "5 Gas Riding Mower Brands With Better Ratings Than Craftsman",
+      "link": "https://www.slashgear.com/2307505/gas-riding-mower-brands-better-ratings-than-craftsman/",
+      "date": "Tue, 10 Nov 2026 02:45:00 +0000",
+      "description": "Craftsman riding mowers face stiff competition from gas-powered alternatives with stronger reliability and owner feedback. See which brands stand out.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.242852276234569
+    },
+    {
+      "title": "5 Of The Highest-Rated Wireless Android Auto Adapters On Amazon Under $100",
+      "link": "https://www.slashgear.com/2307528/best-wireless-android-auto-adapter-on-amazon-under-100-dollars/",
+      "date": "Tue, 10 Nov 2026 02:15:00 +0000",
+      "description": "Android Auto is a great feature in modern cars, but not everyone wants to use it with a cable. That's where these wireless adapters come into play.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "Amazon": 1,
+        "EA": 2
+      },
+      "hardwareCounts": {
+        "Android": 2,
+        "EV": 1
+      },
+      "brandMatches": 3,
+      "hardwareMatches": 3,
+      "score": 35.23590783179012
+    },
+    {
+      "title": "How Do Internet Cables Get Installed Under The Ocean?",
+      "link": "https://www.slashgear.com/2307516/how-internet-cable-installed-under-ocean/",
+      "date": "Tue, 10 Nov 2026 01:15:00 +0000",
+      "description": "Ever wonder how internet cables get installed under the ocean? Explore the complex engineering, specialized ships, and deep-sea routes powering the web.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "EA": 3,
+        "X": 2
+      },
+      "hardwareCounts": {
+        "EV": 1
+      },
+      "brandMatches": 5,
+      "hardwareMatches": 1,
+      "score": 39.22201893904321
+    },
+    {
+      "title": "Harbor Freight's Viral Mini Toolbox Is Getting A Hot New Color",
+      "link": "https://www.slashgear.com/2311605/harbor-freight-mini-toolbox-new-color-hot-pink/",
+      "date": "Tue, 10 Nov 2026 00:45:00 +0000",
+      "description": "Harbor Freight's popular mini toolboxes are back in two new colors, one of which would have fit perfectly in the brightly colored neon glow of the '80s.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {
+        "X": 2
+      },
+      "hardwareCounts": {},
+      "brandMatches": 2,
+      "hardwareMatches": 0,
+      "score": 21.215074494598763
+    },
+    {
+      "title": "How Steep Is Too Steep For A Riding Lawn Mower?",
+      "link": "https://www.slashgear.com/2307481/what-slope-is-too-steep-for-riding-lawn-mower/",
+      "date": "Tue, 10 Nov 2026 00:15:00 +0000",
+      "description": "Steep slopes can turn a simple mowing job into a risky ride with dangerous consequences. Find mower alternatives and safe mowing tips for tackling steep ground.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {},
+      "brandMatches": 0,
+      "hardwareMatches": 0,
+      "score": 11.208130050154322
+    },
+    {
+      "title": "What Temperature Should You Set Your Thermostat To When Fall Weather Hits?",
+      "link": "https://www.slashgear.com/2307485/best-hvac-thermostat-temperature-for-fall-experts-say/",
+      "date": "Mon, 09 Nov 2026 23:45:00 +0000",
+      "description": "As fall settles in, your usual thermostat setting may no longer suit your routine or budget. Learn about smarter choices that increase comfort and savings.",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
         "EA": 3
       },
       "hardwareCounts": {
-        "AI": 2,
-        "OS": 1
+        "thermostat": 2,
+        "OS": 2
       },
       "brandMatches": 3,
-      "hardwareMatches": 3,
-      "score": 35.25281185570987
+      "hardwareMatches": 4,
+      "score": 38.201185605709874
     },
     {
-      "title": "An F-4 Fighter Jet Was Instrumental In Saving A Baby's Life - Here's How",
-      "link": "https://www.slashgear.com/2306045/f-4-fighter-jet-saves-baby-life/",
-      "date": "Mon, 09 Nov 2026 03:15:00 +0000",
-      "description": "Back in the 1980s, a baby's life hung in the balance, and an F-4 Phantom II pilot stepped up to save the day. Here's what happened that night.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "app": 1
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 1,
-      "score": 14.245867411265433
-    },
-    {
-      "title": "4 Apple Watch Apps That Can Upgrade Your Daily Drive",
-      "link": "https://www.slashgear.com/2306287/apple-watch-best-automotive-apps/",
-      "date": "Mon, 09 Nov 2026 02:45:00 +0000",
-      "description": "Your Apple Watch can do more than track workouts and display notifications. Discover how a few apps can make everyday driving easier and less stressful.",
+      "title": "This Massimo Snow Blower Kit From Tractor Supply Is Compatible With Most UTVs",
+      "link": "https://www.slashgear.com/2307317/massimo-universal-utv-snow-blower-attachment-details-price/",
+      "date": "Mon, 09 Nov 2026 23:15:00 +0000",
+      "description": "Tractor Supply's Massimo UTV snow blower promises to make clearing winter snow easier, but its universal fit claims and customer feedback deserve a closer look.",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "Apple": 2,
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "display": 1,
-        "AI": 1,
-        "app": 4,
-        "EV": 1
-      },
-      "brandMatches": 3,
-      "hardwareMatches": 7,
-      "score": 47.23892296682099
-    },
-    {
-      "title": "What Is The Parallel Port On Older PCs For?",
-      "link": "https://www.slashgear.com/2303226/what-is-parallel-port-older-pcs-for/",
-      "date": "Mon, 09 Nov 2026 02:15:00 +0000",
-      "description": "Old computers had a lot of ports that are now considered obsolete, one of those being the classic parallel port. What is it actually used for?",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "PC": 1,
-        "OS": 1
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 2,
-      "score": 17.231978518518517
-    },
-    {
-      "title": "Home Depot Is Selling A 24.7 HP Mini Tractor & Loader – Here's What It Costs",
-      "link": "https://www.slashgear.com/2306541/home-depot-24-7-hp-mini-tractor-loader-price-details/",
-      "date": "Mon, 09 Nov 2026 01:45:00 +0000",
-      "description": "Those looking to buy a new tractor may be interested in this one that's available from Home Depot. Its features, size, and price may be exactly what you need.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "HP": 1,
-        "EA": 1,
-        "X": 1
+        "EA": 2
       },
       "hardwareCounts": {
         "AI": 1,
         "OS": 2
       },
-      "brandMatches": 3,
+      "brandMatches": 2,
       "hardwareMatches": 3,
-      "score": 35.225034074074074
+      "score": 30.19424116126543
     },
     {
-      "title": "9 Of The Best Gadgets & Tech To Help Meet Your Fitness Goals In 2026",
-      "link": "https://www.slashgear.com/2310055/best-health-gadgets-tech-help-meet-fitness-goals-2026/",
-      "date": "Mon, 09 Nov 2026 01:30:00 +0000",
-      "description": "Somewhere between \"gym rat\" and \"walked to the fridge\" is you, and these gadgets meet you right there. Some are surprisingly cheap, too.",
+      "title": "Is An Engine Ruined If It Overheats?",
+      "link": "https://www.slashgear.com/2307273/how-detrimental-is-overheating-your-engine/",
+      "date": "Mon, 09 Nov 2026 22:45:00 +0000",
+      "description": "No matter the root cause, an overheating engine is never something you want. But just how damaging is it if your engine takes on more heat than it should?",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {},
-      "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 16.221561851851853
-    },
-    {
-      "title": "5 Luxury SUVs That Depreciate Faster Than A Toyota Sienna",
-      "link": "https://www.slashgear.com/2306303/luxury-suvs-that-depreciate-faster-than-toyota-sienna/",
-      "date": "Mon, 09 Nov 2026 01:15:00 +0000",
-      "description": "Believe it or not, these 5 luxury SUVs depreciate faster than a Toyota Sienna. Discover which high-end badges shed value faster than a family minivan.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "Toyota": 2,
-        "X": 2
+        "EA": 3
       },
       "hardwareCounts": {
+        "Matter": 1,
         "EV": 1
       },
-      "brandMatches": 4,
-      "hardwareMatches": 1,
-      "score": 34.21808962962963
+      "brandMatches": 3,
+      "hardwareMatches": 2,
+      "score": 32.18729671682099
     },
     {
-      "title": "Why Do Some Pickups Have A Hitch On The Truck Bed? (And What's It Called?)",
-      "link": "https://www.slashgear.com/2306529/why-some-pickup-trucks-have-hitch-on-bed/",
-      "date": "Mon, 09 Nov 2026 00:45:00 +0000",
-      "description": "Pickup trucks are great not just for hauling materials and tools around, but also for lugging trailers behind them, but some do it a little different.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "AI": 1
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 1,
-      "score": 19.211145185185185
-    },
-    {
-      "title": "5 Disadvantages Of Oil-Filled Space Heaters",
-      "link": "https://www.slashgear.com/2306604/disadvantages-oil-space-heaters/",
-      "date": "Mon, 09 Nov 2026 00:15:00 +0000",
-      "description": "Oil-filled space heaters sound convenient on paper (no need to refill the oil, less electricity used), but it pays to know the downsides before buying one.",
+      "title": "Who Makes Tohatsu Outboard Motors & Where Are They Built?",
+      "link": "https://www.slashgear.com/2307225/who-makes-tohatsu-outboard-motors-where-built/",
+      "date": "Mon, 09 Nov 2026 22:15:00 +0000",
+      "description": "Many boats utilize Tohatsu motors, which may lead some to wonder about their production. It may be surprising to learn that more than just Tohatsu is involved.",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
@@ -1666,91 +1675,166 @@
       "hardwareCounts": {},
       "brandMatches": 2,
       "hardwareMatches": 0,
-      "score": 21.204200740740742
+      "score": 21.180352272376542
     },
     {
-      "title": "5 40V Ryobi Tools That Are Great For Small Yards",
-      "link": "https://www.slashgear.com/2306265/best-40v-ryobi-tools-for-small-yards/",
-      "date": "Sun, 08 Nov 2026 23:45:00 +0000",
-      "description": "Have a compact lawn? Discover five versatile Ryobi 40V cordless tools designed to make trimming, pruning, and seasonal yard cleanup fast and easy.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "EA": 4
-      },
-      "hardwareCounts": {},
-      "brandMatches": 4,
-      "hardwareMatches": 0,
-      "score": 31.1972562962963
-    },
-    {
-      "title": "Nitrogen Gas Vs. Hydraulic Shock Absorbers: Which Type Is Better For Daily Driving?",
-      "link": "https://www.slashgear.com/2306394/nitrogen-gas-vs-hydraulic-shock-absorbers-which-is-better/",
-      "date": "Sun, 08 Nov 2026 23:15:00 +0000",
-      "description": "Gas-charged or hydraulic shock absorbers? The right choice for your daily drive depends on what you drive and how hard you like to push it on the road.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {},
-      "hardwareCounts": {
-        "AI": 2
-      },
-      "brandMatches": 0,
-      "hardwareMatches": 2,
-      "score": 17.190311851851853
-    },
-    {
-      "title": "Fitbit Air Vs Fitbit Edge: What Does The Higher Price Tag Get You?",
-      "link": "https://www.slashgear.com/2302928/fitbit-air-vs-edge-differences-features/",
-      "date": "Sun, 08 Nov 2026 22:45:00 +0000",
-      "description": "Wondering if the Fitbit Edge justifies its higher price tag? Compare both fitness trackers to see what extra health features and hardware you get.",
-      "source": "Slashgear",
-      "sourceWeight": 1.3,
-      "brandCounts": {
-        "Fitbit": 3,
-        "EA": 2,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "fitness tracker": 1,
-        "AI": 1,
-        "Edge": 2
-      },
-      "brandMatches": 6,
-      "hardwareMatches": 4,
-      "score": 53.1833674074074
-    },
-    {
-      "title": "What Does It Mean When A Boat Honks Its Horn Twice?",
-      "link": "https://www.slashgear.com/2309824/what-two-honks-on-a-boat-mean/",
-      "date": "Sun, 08 Nov 2026 22:15:00 +0000",
-      "description": "Before setting out onto open waters, boaters should become aware of the various honking signals used to communicate danger, navigation, and other things.",
+      "title": "When Could SSD And HDD Prices Finally Come Down?",
+      "link": "https://www.slashgear.com/2310276/when-could-ssd-hdd-storage-prices-come-down/",
+      "date": "Mon, 09 Nov 2026 21:45:00 +0000",
+      "description": "PC component prices have skyrocketed in the last year, especially when it comes to RAM and storage. When could we see storage prices getting back to normal?",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
         "EA": 1
       },
-      "hardwareCounts": {},
+      "hardwareCounts": {
+        "PC": 1,
+        "RAM": 1,
+        "SSD": 1,
+        "HDD": 1,
+        "storage": 2
+      },
       "brandMatches": 1,
-      "hardwareMatches": 0,
-      "score": 16.176422962962963
+      "hardwareMatches": 6,
+      "score": 34.173407827932095
     },
     {
-      "title": "History-Making Nuclear Aircraft Carrier USS Enterprise Takes Its Final Voyage At Sea",
-      "link": "https://www.slashgear.com/2309202/nuclear-aircraft-carrier-uss-enterprise-final-voyage/",
-      "date": "Sun, 08 Nov 2026 21:45:00 +0000",
-      "description": "The USS Enterprise, a nuclear powered aircraft carrier, will be making its final voyage to where it will be disassembled. Here's what's going to happen.",
+      "title": "This Is The Last WWII Landing Ship Still Sailing Today",
+      "link": "https://www.slashgear.com/2307118/last-wwii-landing-ship-still-sailing-lst-325-history/",
+      "date": "Mon, 09 Nov 2026 21:15:00 +0000",
+      "description": "There are lots of permanently docked naval museum ships in the U.S. But eight decades after the end of World War II, one landing craft is still moving around.",
+      "source": "Slashgear",
+      "sourceWeight": 1.3,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "AI": 1
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 1,
+      "score": 14.166463383487656
+    },
+    {
+      "title": "5 Signs It's Time To Replace Your Water Heater",
+      "link": "https://www.slashgear.com/2307112/signs-to-replace-water-heater/",
+      "date": "Mon, 09 Nov 2026 20:45:00 +0000",
+      "description": "If your water heater starts acting up, replacing it isn't always the only option. Its age, condition, and repair history can help determine the right solution.",
       "source": "Slashgear",
       "sourceWeight": 1.3,
       "brandCounts": {
-        "EA": 3
+        "EA": 2
       },
       "hardwareCounts": {
-        "AI": 2,
+        "AI": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 1,
+      "score": 24.159518939043213
+    },
+    {
+      "title": "You can change Windows settings directly from a search now – how to try it",
+      "link": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/",
+      "date": "2026-11-09T19:33:24.000Z",
+      "description": "",
+      "source": "ZDNet News",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "Windows": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 1,
+      "score": 18.94294486496914
+    },
+    {
+      "title": "AMD confirms GPU driver bug is wearing out your SSD – how to stop it",
+      "link": "https://www.zdnet.com/tech/amd-confirms-gpu-driver-bug-is-wearing-out-your-ssd-how-to-stop-it/",
+      "date": "2026-11-09T18:30:49.000Z",
+      "description": "",
+      "source": "ZDNet News",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "AMD": 1,
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "GPU": 1,
+        "SSD": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 2,
+      "score": 26.92845798225309
+    },
+    {
+      "title": "Ready for a Siri AI agent? Apple under pressure to upgrade its assistant faster",
+      "link": "https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy/",
+      "date": "2026-11-09T17:54:25.000Z",
+      "description": "",
+      "source": "ZDNet News",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "Apple": 1,
+        "EA": 1
+      },
+      "hardwareCounts": {
+        "AI": 1,
         "app": 1
       },
-      "brandMatches": 3,
-      "hardwareMatches": 3,
-      "score": 35.16947851851852
+      "brandMatches": 2,
+      "hardwareMatches": 2,
+      "score": 26.920032056327162
+    },
+    {
+      "title": "Android Auto requires Android 11 or higher now – check your compatibility",
+      "link": "https://www.zdnet.com/tech/android-auto-new-requirements-android-11/",
+      "date": "2026-11-09T17:46:42.000Z",
+      "description": "",
+      "source": "ZDNet News",
+      "sourceWeight": 1.1,
+      "brandCounts": {},
+      "hardwareCounts": {
+        "Android": 2
+      },
+      "brandMatches": 0,
+      "hardwareMatches": 2,
+      "score": 16.918245790895064
+    },
+    {
+      "title": "Samsung’s new SmartTag 3 debuts with next-gen Bluetooth – and one big problem",
+      "link": "https://www.zdnet.com/tech/samsung-smart-tag-3-channel-sounding/",
+      "date": "2026-11-09T17:46:38.000Z",
+      "description": "",
+      "source": "ZDNet News",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "Samsung": 1,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "Bluetooth": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 1,
+      "score": 23.9182303587963
+    },
+    {
+      "title": "Samsung mulls Galaxy AI usage limits and subscription tiers – what we know",
+      "link": "https://www.zdnet.com/innovation/samsung-galaxy-ai-paid-subscription/",
+      "date": "2026-11-09T16:55:56.000Z",
+      "description": "",
+      "source": "ZDNet News",
+      "sourceWeight": 1.1,
+      "brandCounts": {
+        "Samsung": 1,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "AI": 1
+      },
+      "brandMatches": 2,
+      "hardwareMatches": 1,
+      "score": 23.90649424768519
     },
     {
       "title": "Alpine Linux and OpenSSH patch flaw that’s as bad as it can get",
@@ -1768,7 +1852,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 21.334235462962965
+      "score": 21.00483143904321
     },
     {
       "title": "Android is getting my favorite iOS tracking feature – what to expect",
@@ -1788,7 +1872,7 @@
       },
       "brandMatches": 2,
       "hardwareMatches": 3,
-      "score": 29.24800861111111
+      "score": 28.91860458719136
     },
     {
       "title": "Thinking Machines’ new model takes the lead in western open-weight AI",
@@ -1806,7 +1890,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 2,
-      "score": 21.2388187962963
+      "score": 20.909414772376543
     },
     {
       "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
@@ -1827,7 +1911,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 5,
-      "score": 30.228024043209878
+      "score": 29.898620019290124
     },
     {
       "title": "92% of HR say staff can train for AI jobs – but half of companies still hire outside",
@@ -1842,7 +1926,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 2,
-      "score": 15.927761697530864
+      "score": 15.59835767361111
     },
     {
       "title": "6 default Pixel 11 settings I changed that made a big difference – and why",
@@ -1857,7 +1941,7 @@
       "hardwareCounts": {},
       "brandMatches": 1,
       "hardwareMatches": 0,
-      "score": 14.921623580246914
+      "score": 14.59221955632716
     },
     {
       "title": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
@@ -1874,7 +1958,7 @@
       },
       "brandMatches": 1,
       "hardwareMatches": 1,
-      "score": 17.917395185185185
+      "score": 17.587991161265432
     },
     {
       "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
@@ -1891,7 +1975,7 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 3,
-      "score": 18.914289475308642
+      "score": 18.58488545138889
     },
     {
       "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
@@ -1909,317 +1993,223 @@
       },
       "brandMatches": 0,
       "hardwareMatches": 5,
-      "score": 24.89165830246914
+      "score": 24.562254278549382
     },
     {
-      "title": "Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect",
-      "link": "https://www.zdnet.com/tech/linux-mint-27-release-date/",
-      "date": "2026-11-05T02:35:58.000Z",
-      "description": "",
-      "source": "ZDNet News",
-      "sourceWeight": 1.1,
+      "title": "ByteDance’s Seedream 5.5 can edit one image 100 times without breaking it",
+      "link": "https://thenextweb.com/news/bytedance-seedream-5-5-image-editing-100-rounds",
+      "date": "Mon, 09 Nov 2026 21:44:29 +0000",
+      "description": "ByteDance released Seedream 5.5, an AI image model it says keeps unchanged parts of an image intact over 100 rounds of edits and creates transparent-background assets. It is rolling out in ByteDance’s Chinese apps. The performance claims are ByteDance’s own. ByteDance has released Seedream 5.5, a new AI image model, its Seed research team said […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "ByteDance": 5,
+        "EA": 9,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "AI": 4,
+        "app": 1
+      },
+      "brandMatches": 15,
+      "hardwareMatches": 5,
+      "score": 100.87328822530864
+    },
+    {
+      "title": "Cisco adds Anthropic’s Claude Mythos to AI Defense for red teaming",
+      "link": "https://thenextweb.com/news/cisco-ai-defense-claude-mythos-red-teaming",
+      "date": "Mon, 09 Nov 2026 20:56:14 +0000",
+      "description": "Cisco will add Anthropic’s Claude Mythos to AI Defense to plan attacks on customers’ own AI apps and agents, a practice called red teaming. Customers get no open prompt access, every test is logged to a named person, and it comes first to select enterprises. Cisco will add Anthropic’s Claude Mythos to AI Defense, the […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
       "brandCounts": {
         "EA": 2,
+        "Anthropic": 3,
+        "Cisco": 3,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "AI": 4,
+        "OS": 3,
+        "app": 1,
+        "EV": 1
+      },
+      "brandMatches": 9,
+      "hardwareMatches": 9,
+      "score": 82.86211924382715
+    },
+    {
+      "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
+      "link": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
+      "date": "Mon, 09 Nov 2026 20:34:10 +0000",
+      "description": "IBM plans to add Anthropic’s Claude Mythos to Concert Protect so customers can scan their own code for unknown flaws, test which are exploitable and get fixes for developers to approve. It is aiming for early 2027. Mythos itself remains limited to vetted organisations. IBM plans to build Anthropic’s Claude Mythos into its Concert Protect […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "EA": 1,
+        "Anthropic": 3,
+        "AWS": 1,
+        "IBM": 3,
         "X": 3
       },
       "hardwareCounts": {
-        "Linux": 1
-      },
-      "brandMatches": 5,
-      "hardwareMatches": 1,
-      "score": 37.703498580246915
-    },
-    {
-      "title": "Is Chrome’s settings menu getting a search bar? What we know",
-      "link": "https://www.zdnet.com/business/google-tests-new-chrome-search-menu-feature/",
-      "date": "2026-11-04T19:53:06.000Z",
-      "description": "",
-      "source": "ZDNet News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "Chrome": 1
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 1,
-      "score": 17.61024240740741
-    },
-    {
-      "title": "Researchers asked people to use AI chatbots for election info – results were mixed",
-      "link": "https://www.zdnet.com/innovation/ai-users-ask-chatbots-voting-advice-elections-yale-research/",
-      "date": "2026-11-04T18:13:38.000Z",
-      "description": "",
-      "source": "ZDNet News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "EA": 1,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "AI": 1,
-        "chatbot": 1
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 2,
-      "score": 25.587217716049384
-    },
-    {
-      "title": "Want an AI job? Deployment engineers are earning executive-level pay – up to $1.45M a year",
-      "link": "https://www.zdnet.com/innovation/ai-deployment-engineers-salary-christian-timbers-report/",
-      "date": "2026-11-04T18:02:01.000Z",
-      "description": "",
-      "source": "ZDNet News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "EA": 2,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "AI": 1,
-        "EV": 1
-      },
-      "brandMatches": 3,
-      "hardwareMatches": 2,
-      "score": 30.584528672839507
-    },
-    {
-      "title": "Safari finally gets 3 popular browser features – and I can’t wait to try them",
-      "link": "https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features/",
-      "date": "2026-11-04T17:14:36.000Z",
-      "description": "",
-      "source": "ZDNet News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "EA": 1
-      },
-      "hardwareCounts": {
-        "AI": 1,
-        "browser": 1,
-        "Safari": 1
-      },
-      "brandMatches": 1,
-      "hardwareMatches": 3,
-      "score": 23.573552592592595
-    },
-    {
-      "title": "Can Netflix’s new AI tool stop your TV-streaming doomscrolling? How to try it",
-      "link": "https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature/",
-      "date": "2026-11-04T17:05:06.000Z",
-      "description": "",
-      "source": "ZDNet News",
-      "sourceWeight": 1.1,
-      "brandCounts": {
-        "EA": 1,
-        "X": 1,
-        "Netflix": 1
-      },
-      "hardwareCounts": {
-        "AI": 1
-      },
-      "brandMatches": 3,
-      "hardwareMatches": 1,
-      "score": 27.571353514660494
-    },
-    {
-      "title": "Tencent AI chief warns models will soon pose biology risks, SCMP reports",
-      "link": "https://thenextweb.com/news/tencent-yao-shunyu-ai-biology-risk-hy4",
-      "date": "Sun, 08 Nov 2026 15:38:11 +0000",
-      "description": "Tencent’s chief AI scientist has warned that AI models will soon be able to cause harm in biology, as they already can in cybersecurity. Yao Shunyu spoke at a science event in Hong Kong on Saturday, the South China Morning Post reported. “The cyber abilities of [AI] models and soon [the] bio ability of models […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "Tencent": 2,
-        "ARM": 1,
-        "EA": 1,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "AI": 4,
-        "AI model": 1,
-        "OS": 2,
-        "EV": 1
-      },
-      "brandMatches": 5,
-      "hardwareMatches": 8,
-      "score": 59.784567249228395
-    },
-    {
-      "title": "Italy blames pro-Russian hackers for leaking Tajani’s personal data",
-      "link": "https://thenextweb.com/news/italy-tajani-personal-data-pro-russian-hackers",
-      "date": "Sun, 08 Nov 2026 15:24:01 +0000",
-      "description": "Italy’s prime minister, Giorgia Meloni, has blamed pro-Russian hackers for posting the foreign minister’s personal data on the dark web. She said the sale of officials’ data was a grave concern, in a statement carried by ANSA on Saturday. The minister, Antonio Tajani, said on X that the hackers had been spreading his data for days. […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "EA": 2,
-        "NIO": 1,
-        "X": 2
-      },
-      "hardwareCounts": {
         "AI": 2,
-        "OS": 1
+        "OS": 4,
+        "app": 1,
+        "EV": 1
       },
-      "brandMatches": 5,
-      "hardwareMatches": 3,
-      "score": 44.781287928240744
+      "brandMatches": 11,
+      "hardwareMatches": 8,
+      "score": 89.8570112191358
     },
     {
-      "title": "CoreWeave asks Texas governor-elect to let permitted data centres finish",
-      "link": "https://thenextweb.com/news/coreweave-texas-hinojosa-data-centre-letter",
-      "date": "Sun, 08 Nov 2026 15:20:35 +0000",
-      "description": "I cloud company CoreWeave has written to Texas Governor-elect Gina Hinojosa, offering to work with her team on data centre rules. The letter from chief executive Michael Intrator was sent on Saturday, Bloomberg reported. Intrator offered to work with her transition team on finishing projects that already have permits. He also offered help setting clear, lasting […] This story continues at The Next Web",
+      "title": "Baidu says its AI research agent sped up its next ERNIE model",
+      "link": "https://thenextweb.com/news/baidu-ernie-evolve-automated-ai-research",
+      "date": "Mon, 09 Nov 2026 20:06:23 +0000",
+      "description": "Baidu unveiled ERNIE Evolve, an AI system that runs its own experiments to improve AI code. Baidu says it sped up its in-development ERNIE-5.5-Flash model by 33.7% on GPUs and more than sixfold on Kunlunxin chips. All figures are Baidu’s own. Baidu has built an AI system that runs its own experiments to improve AI […] This story continues at The Next Web",
       "source": "The Next Web",
       "sourceWeight": 1,
       "brandCounts": {
-        "EA": 6,
-        "X": 4
-      },
-      "hardwareCounts": {
-        "cloud": 1,
-        "OS": 1
-      },
-      "brandMatches": 10,
-      "hardwareMatches": 2,
-      "score": 66.78049317515432
-    },
-    {
-      "title": "Unfold CEO Ran Cherniavsky on breaking down enterprise data barriers to AI adoption",
-      "link": "https://thenextweb.com/news/unfold-ran-cherniavsky-enterprise-data-ai-adoption",
-      "date": "Sun, 08 Nov 2026 15:08:30 +0000",
-      "description": "As enterprises accelerate AI adoption, a major obstacle remains: much of the data AI needs is still trapped inside legacy systems, proprietary software, and applications that lack modern interfaces. Traditional integration tools have helped connect enterprise systems, but they often cannot access the full scope of information or capture the business context needed to make […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
+        "Baidu": 5,
         "EA": 1,
-        "X": 2
+        "X": 6,
+        "Figure": 1
       },
       "hardwareCounts": {
-        "AI": 4,
-        "software": 1,
-        "app": 2,
-        "application": 1
+        "GPU": 1,
+        "chip": 1,
+        "AI": 10,
+        "EV": 2
+      },
+      "brandMatches": 13,
+      "hardwareMatches": 14,
+      "score": 117.85057989197531
+    },
+    {
+      "title": "Commerce halted its Megaspeed probe after Nvidia stepped in, NYT reports",
+      "link": "https://thenextweb.com/news/megaspeed-probe-commerce-nvidia-lawyer-justice-department-nyt",
+      "date": "Mon, 09 Nov 2026 19:59:22 +0000",
+      "description": "The Commerce Department stopped its investigation into Megaspeed after Nvidia’s general counsel contacted the agents running it, Ana Swanson and Devlin Barrett reported for The New York Times. The case moved to the Justice Department. It is now running a criminal inquiry into the Singapore company, according to people familiar with the matter cited by […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "Nvidia": 2,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "Matter": 1,
+        "EV": 1
       },
       "brandMatches": 3,
-      "hardwareMatches": 8,
-      "score": 49.777696107253085
+      "hardwareMatches": 2,
+      "score": 31.84895566358025
     },
     {
-      "title": "Anthropic buys $3.4bn of gas generators for its data centres, FT reports",
-      "link": "https://thenextweb.com/news/anthropic-3-4bn-gas-generators-onepwr-ft",
-      "date": "Sun, 08 Nov 2026 14:34:09 +0000",
-      "description": "Anthropic has agreed to pay $3.4bn for gas-fired generators to power its data centres, the Financial Times reported on Sunday. The FT said it is the biggest known single buy of power kit by an AI company. The deal covers 1.7 gigawatts of large generators, the FT said, citing one person who knows about it. […] This story continues at The Next Web",
+      "title": "Meta’s Muse Ember matches Claude Haiku at a third of the cost per task",
+      "link": "https://thenextweb.com/news/meta-muse-ember-small-ai-model-haiku-luna",
+      "date": "Mon, 09 Nov 2026 19:34:31 +0000",
+      "description": "Meta has released Muse Ember, its smallest and cheapest AI model so far, the company announced on Monday. Meta built it for the small jobs AI agents repeat all day. These include calling tools, coding subtasks, routing requests, pulling out data and parsing long documents. Ember costs $0.10 per million input tokens and $0.50 per […] This story continues at The Next Web",
       "source": "The Next Web",
       "sourceWeight": 1,
       "brandCounts": {
-        "EA": 1,
-        "Anthropic": 2,
+        "Meta": 3,
+        "EA": 3,
         "X": 1
       },
       "hardwareCounts": {
-        "AI": 3
-      },
-      "brandMatches": 4,
-      "hardwareMatches": 3,
-      "score": 39.769744718364194
-    },
-    {
-      "title": "US Justice Department sets up an AI task force under its new SI name",
-      "link": "https://thenextweb.com/news/doj-super-intelligence-task-force-ai",
-      "date": "Sun, 08 Nov 2026 14:29:45 +0000",
-      "description": "The US Justice Department has set up a task force to lead its work on AI crimes and AI lawsuits. It is called the Super Intelligence Task Force, the department said on Thursday. The name follows a September order from President Donald Trump telling federal agencies to call AI “super intelligence” in official documents. Associate Attorney General Stanley […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "Intel": 2,
-        "EA": 1,
-        "AWS": 1,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "SoC": 1,
-        "AI": 5
-      },
-      "brandMatches": 5,
-      "hardwareMatches": 6,
-      "score": 53.76872619984568
-    },
-    {
-      "title": "UK may add Vinted and eBay to its under-16 social media ban",
-      "link": "https://thenextweb.com/news/uk-under-16-social-media-ban-vinted-ebay",
-      "date": "Sun, 08 Nov 2026 14:25:44 +0000",
-      "description": "The UK government is considering adding Vinted and eBay to its ban on social media for under-16s, Culture Secretary Lisa Nandy said on Sunday. The ban is due to start next spring.Nandy said on the BBC’s Sunday with Laura Kuenssberg that the government was “looking seriously” at the move to keep children safe, the BBC reported. […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "X": 2
-      },
-      "hardwareCounts": {
-        "SoC": 2,
-        "AI": 2
-      },
-      "brandMatches": 2,
-      "hardwareMatches": 4,
-      "score": 32.76779641589506
-    },
-    {
-      "title": "Meet Sola Security: the enterprise security brain behind the agentic era",
-      "link": "https://thenextweb.com/news/sola-security-enterprise-security-brain-ai-agents",
-      "date": "Sun, 08 Nov 2026 14:02:24 +0000",
-      "description": "Artificial intelligence is changing how enterprise security teams operate. Tasks that once required analysts to spend hours investigating alerts, correlating data, and navigating different security platforms are increasingly being delegated to AI copilots and autonomous agents. Yet as organizations accelerate adoption, a fundamental question remains: how effectively can an AI agent protect an environment it does […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "Intel": 1,
-        "EA": 2,
-        "X": 1
-      },
-      "hardwareCounts": {
-        "AI": 4,
-        "platform": 1,
-        "autonomous": 1
-      },
-      "brandMatches": 4,
-      "hardwareMatches": 6,
-      "score": 48.762395181327165
-    },
-    {
-      "title": "Anthropic reportedly must face claims its Claude Max ads misled users",
-      "link": "https://thenextweb.com/news/anthropic-claude-max-lawsuit-ruling-usage-claims",
-      "date": "Sat, 07 Nov 2026 12:15:11 +0000",
-      "description": "A US judge has ruled that Anthropic must face key claims that it misled customers about how much use they get from its Claude Max plans. Magistrate Judge Alex Tse dismissed several other claims on Friday, Courthouse News reported. The proposed class action, Kahn v. Anthropic, is in the federal court for northern California. TNW has […] This story continues at The Next Web",
-      "source": "The Next Web",
-      "sourceWeight": 1,
-      "brandCounts": {
-        "Anthropic": 3,
-        "X": 4
-      },
-      "hardwareCounts": {
+        "NPU": 1,
         "AI": 3,
-        "OS": 1,
-        "EV": 1
+        "AI model": 1,
+        "OS": 2
       },
       "brandMatches": 7,
-      "hardwareMatches": 5,
-      "score": 60.40424317515432
+      "hardwareMatches": 7,
+      "score": 66.84320334876543
     },
     {
-      "title": "HH Princess Sophia Wolkonsky brings royalty, global business leaders and esports figures together in Vienna for Castillia 2026",
-      "link": "https://thenextweb.com/news/castillia-heritage-gala-vienna-2026-sophia-wolkonsky",
-      "date": "Sat, 07 Nov 2026 11:50:20 +0000",
-      "description": "VIENNA, Austria, HH Princess Sophia Wolkonsky, founder and CEO of Castillia, brought together members of royal families, international business leaders, technology executives and esports figures in Vienna from October 30 to November 1 for Castillia’s Heritage Gala 2026, an invitation-only celebration of cultural heritage, innovation and international connections. Under her leadership, the three-day gathering connected guests from […] This story continues at The Next Web",
+      "title": "Anthropic launches Claude Fable 5.2 and Mythos 5.2, and cuts Fable’s price",
+      "link": "https://thenextweb.com/news/claude-fable-5-2-mythos-5-2-anthropic-launch-price",
+      "date": "Mon, 09 Nov 2026 19:22:39 +0000",
+      "description": "Anthropic has released Claude Fable 5.2 and Claude Mythos 5.2, the company announced on Monday. They are new versions of its most powerful AI models. Both are faster than the 5.1 versions from September, and Fable is cheaper. The launch comes as Anthropic nears its stock market listing, which could happen as soon as this […] This story continues at The Next Web",
       "source": "The Next Web",
       "sourceWeight": 1,
       "brandCounts": {
         "EA": 3,
-        "X": 2,
-        "Figure": 2
+        "Anthropic": 3,
+        "X": 1
       },
-      "hardwareCounts": {},
+      "hardwareCounts": {
+        "AI": 1,
+        "AI model": 1,
+        "OS": 3,
+        "app": 1
+      },
       "brandMatches": 7,
-      "hardwareMatches": 0,
-      "score": 45.39849085648148
+      "hardwareMatches": 6,
+      "score": 63.84045643518519
+    },
+    {
+      "title": "Apple’s CEO presses Federighi to speed up AI, Bloomberg reports",
+      "link": "https://thenextweb.com/news/ternus-federighi-agentic-siri-apple-ai-bloomberg",
+      "date": "Mon, 09 Nov 2026 18:43:58 +0000",
+      "description": "Apple chief executive John Ternus has pushed software chief Craig Federighi to speed up Apple’s AI plans, Mark Gurman reported for Bloomberg on Sunday. Ternus wants Apple to move beyond improving Siri. According to the report, he held a closed-door meeting with Federighi in recent weeks. Ternus is frustrated by what he sees as Apple’s […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "Apple": 5,
+        "X": 2
+      },
+      "hardwareCounts": {
+        "AI": 3,
+        "OS": 1,
+        "software": 1,
+        "app": 5
+      },
+      "brandMatches": 7,
+      "hardwareMatches": 10,
+      "score": 75.83150195987655
+    },
+    {
+      "title": "Google lets developers add Maps to AI Studio apps for free",
+      "link": "https://thenextweb.com/news/google-maps-platform-ai-studio-demo-key",
+      "date": "Mon, 09 Nov 2026 18:40:29 +0000",
+      "description": "Google AI Studio can now set up Google Maps Platform for apps built by prompting Gemini, with a free demo key allowing 100 calls a day per API. Production apps still need a paid Cloud billing account, but the same key and code keep working. Developers can now add Google Maps to apps they build […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "Google": 4,
+        "X": 1
+      },
+      "hardwareCounts": {
+        "AI": 3,
+        "cloud": 1,
+        "app": 4,
+        "platform": 1,
+        "API": 1,
+        "EV": 2
+      },
+      "brandMatches": 5,
+      "hardwareMatches": 12,
+      "score": 71.83069563271604
+    },
+    {
+      "title": "Nominal raises $240M at $3B, tripling its value since March",
+      "link": "https://thenextweb.com/news/nominal-series-c-240m-3b-valuation-hardware-ai",
+      "date": "Mon, 09 Nov 2026 18:26:02 +0000",
+      "description": "Nominal, whose software helps engineers test and analyse hardware such as aircraft, satellites and robots, has raised $240M in a Series C round at a $3B valuation. Lightspeed Venture Partners led the round and Insight Partners co-led it, Nominal announced on Monday. That is triple its valuation in March. Back then, Nominal raised $80M at […] This story continues at The Next Web",
+      "source": "The Next Web",
+      "sourceWeight": 1,
+      "brandCounts": {
+        "X": 1
+      },
+      "hardwareCounts": {
+        "AI": 4,
+        "OS": 1,
+        "software": 1
+      },
+      "brandMatches": 1,
+      "hardwareMatches": 6,
+      "score": 33.82735072530864
     }
   ]
 }
